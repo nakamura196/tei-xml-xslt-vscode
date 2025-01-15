@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CETEICean Demo</title>
+                <author>Satoru Nakamura</author>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition scheme="css" xml:id="italic">font-style: italic;</rendition>
+                <rendition scheme="css" selector="title">text-decoration: underline;</rendition>
+                <rendition scheme="css" selector="persName">color: green;</rendition>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <!--
+                    <title xml:id="foo" xml:lang="de">Die Leiden des jungen Werther</title>
+                    -->
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </p>
+            </div>
+            <div>
+                <p>
+                    CETEIceanは<ref target="https://github.com/TEIC/CETEIcean">こちら</ref>を参考にしてください。
+                </p>
+                <p>
+                    こちらは
+                    <persName>人名</persName>のマークアップの例です。
+                    はじめてのテキストです。
+                </p>
+                <p>
+                    第二段落のテキストです。
+                </p>
+                <p>
+                    第三段落のテキストです。
+                </p>
+                <p>
+                    第四段落のテキストです。
+                </p>
+            </div>
+            <div>
+                <ab>任意のブロックです。</ab>
+            </div>
+            <div>
+                <ab>
+                    <table rows="4" cols="4">
+                        <head>はじめての表です。</head>
+                        <row role="label">
+                            <cell role="data"/>
+                            <cell role="data">あ</cell>
+                            <cell role="data">い</cell>
+                            <cell role="data">う</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="label">い</cell>
+                            <cell role="data">ろ</cell>
+                            <cell role="data">は</cell>
+                            <cell role="data">に</cell>
+                        </row>
+                    </table>
+                </ab>
+            </div>
+
+        </body>
+    </text>
+</TEI>

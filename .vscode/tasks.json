@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Transform XML with XSLT",
+      "type": "shell",
+      "command": "npx",
+      "args": [
+        "xslt3",
+        "-xsl:xsl/make-CETEIcean.xsl",
+        "-s:${file}",
+        "-o:${fileDirname}/${fileBasenameNoExtension}.html"
+      ],
+      "presentation": {
+        "reveal": "never",
+        "close": true
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

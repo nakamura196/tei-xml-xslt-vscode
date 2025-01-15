@@ -1,0 +1,136 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" href="https://teic.github.io/CETEIcean/css/CETEIcean.css"><script type="text/javascript" src="https://github.com/TEIC/CETEIcean/releases/download/v0.4.0/CETEI.js"></script><style>
+.            italic
+ {
+            font-style: italic;
+       
+}
+        tei-title {
+            text-decoration: underline;
+       
+}
+        tei-persName {
+            color: green;
+       
+}
+        </style></head><body>
+                <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"><tei-tei data-xmlns="http://www.tei-c.org/ns/1.0" data-origname="TEI">
+    <tei-teiheader data-origname="teiHeader">
+        <tei-filedesc data-origname="fileDesc">
+            <tei-titlestmt data-origname="titleStmt">
+                <tei-title data-origname="title">CETEICean Demo</tei-title>
+                <tei-author data-origname="author">Satoru Nakamura</tei-author>
+            </tei-titlestmt>
+            <tei-publicationstmt data-origname="publicationStmt">
+                <tei-p data-origname="p"></tei-p>
+            </tei-publicationstmt>
+            <tei-sourcedesc data-origname="sourceDesc">
+                <tei-p data-origname="p"></tei-p>
+            </tei-sourcedesc>
+        </tei-filedesc>
+        <tei-encodingdesc data-origname="encodingDesc">
+            <tei-tagsdecl data-origname="tagsDecl">
+                <tei-rendition id="italic" data-origname="rendition" data-origatts="schemeid" scheme="css" xml:id="italic">font-style: italic;</tei-rendition>
+                <tei-rendition data-origname="rendition" data-origatts="schemeselector" scheme="css" selector="title">text-decoration: underline;</tei-rendition>
+                <tei-rendition data-origname="rendition" data-origatts="schemeselector" scheme="css" selector="persName">color: green;</tei-rendition>
+            </tei-tagsdecl>
+        </tei-encodingdesc>
+    </tei-teiheader>
+    <tei-text data-origname="text">
+        <tei-body data-origname="body">
+            <tei-div data-origname="div">
+                <tei-p data-origname="p">
+                    <!--
+                    <title xml:id="foo" xml:lang="de">Die Leiden des jungen Werther</title>
+                    -->
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                    <tei-lb data-origname="lb"></tei-lb>
+                </tei-p>
+            </tei-div>
+            <tei-div data-origname="div">
+                <tei-p data-origname="p">
+                    CETEIceanは<tei-ref data-origname="ref" data-origatts="target" target="https://github.com/TEIC/CETEIcean">こちら</tei-ref>を参考にしてください。
+                </tei-p>
+                <tei-p data-origname="p">
+                    こちらは
+                    <tei-persname data-origname="persName">人名</tei-persname>のマークアップの例です。
+                    はじめてのテキストです。
+                </tei-p>
+                <tei-p data-origname="p">
+                    第二段落のテキストです。
+                </tei-p>
+                <tei-p data-origname="p">
+                    第三段落のテキストです。
+                </tei-p>
+                <tei-p data-origname="p">
+                    第四段落のテキストです。
+                </tei-p>
+            </tei-div>
+            <tei-div data-origname="div">
+                <tei-ab data-origname="ab">任意のブロックです。</tei-ab>
+            </tei-div>
+            <tei-div data-origname="div">
+                <tei-ab data-origname="ab">
+                    <tei-table data-origname="table" data-origatts="rowscols" rows="4" cols="4">
+                        <tei-head data-origname="head">はじめての表です。</tei-head>
+                        <tei-row data-origname="row" data-origatts="role" role="label">
+                            <tei-cell data-origname="cell" data-origatts="role" role="data"></tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">あ</tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">い</tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">う</tei-cell>
+                        </tei-row>
+                        <tei-row data-origname="row" data-origatts="role" role="data">
+                            <tei-cell data-origname="cell" data-origatts="role" role="label">い</tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">ろ</tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">は</tei-cell>
+                            <tei-cell data-origname="cell" data-origatts="role" role="data">に</tei-cell>
+                        </tei-row>
+                    </tei-table>
+                </tei-ab>
+            </tei-div>
+
+        </tei-body>
+    </tei-text>
+</tei-tei>
+                <script type="text/javascript">
+          var c = new CETEI();
+          c.els = ["tei:TEI
+"            ,"tei:teiHeader
+"            ,"tei:fileDesc
+"            ,"tei:titleStmt
+"            ,"tei:title
+"            ,"tei:author
+"            ,"tei:publicationStmt
+"            ,"tei:p
+"            ,"tei:sourceDesc
+"            ,"tei:encodingDesc
+"            ,"tei:tagsDecl
+"            ,"tei:rendition
+"            ,"tei:text
+"            ,"tei:body
+"            ,"tei:div
+"            ,"tei:lb
+"            ,"tei:ref
+"            ,"tei:persName
+"            ,"tei:ab
+"            ,"tei:table
+"            ,"tei:head
+"            ,"tei:row
+"            ,"tei:cell
+"            ,
+];
+          c.els.push("egXML");
+          c.applyBehaviors();
+                </script></body></html>
