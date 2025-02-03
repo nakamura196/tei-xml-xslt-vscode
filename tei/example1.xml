@@ -27,7 +27,9 @@
         <body>
             <div>
                 <p>
-                    <!--
+                    サンプルテキストです。次のサンプルテキストです。
+                    <persName>中村覚</persName>が作成しました。
+                                                                                <!--
                     <title xml:id="foo" xml:lang="de">Die Leiden des jungen Werther</title>
                     -->
                     <lb/>

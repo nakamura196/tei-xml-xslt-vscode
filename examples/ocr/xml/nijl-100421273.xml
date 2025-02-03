@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/html/html.xsl"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>OCR結果: https://kokusho.nijl.ac.jp/biblio/100421273/manifest</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>NDL古典OCR</publisher>
+        <date>2025-02-03</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://kokusho.nijl.ac.jp/biblio/100421273/manifest"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab n="1" corresp="#surface-1" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00000.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p1-l1">調法</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p1-l3">精礬</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p1-l4">十九</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p1-l5">悪山</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p1-l6">卅九</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p1-l7">薬薬</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p1-l8">御噺</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p1-l9">第四</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p1-l10">の</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p1-l11">の上</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p1-l12">一冊</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p1-l13">女</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p1-l14">防□画</seg>
+      </ab>
+      <ab n="2" corresp="#surface-2" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00001.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p2-l1">若紫</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p2-l2">同</seg>
+      </ab>
+      <ab n="3" corresp="#surface-3" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00002.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p3-l1">ＯＯ一ロロロツ嬢</seg>
+      </ab>
+      <ab n="4" corresp="#surface-4" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00003.tif/full/full/0/default.jpg"/>
+      <ab n="5" corresp="#surface-5" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00004.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p5-l1">寂蓮法師御筆</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p5-l3">源氏若紫</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p5-l5">容体御竪六寸三分横五寸九分深さ壱寸九分一</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p5-l6">枝蓋茶褐色湿紐付桐箱にして甘皿の中</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p5-l7">野に右の歌簾あり</seg>
+      </ab>
+      <ab n="6" corresp="#surface-6" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00005.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p6-l1">をしくゝみてあはれにうちかたらひ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p6-l2">ていさたまへよをかしき絵ひならと</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p6-l3">いとおほかるとこくにと心につくへき</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p6-l4">ことゝもをのたよふけはひもいとわか</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p6-l5">くなまめかしけれはをさな心ちに</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p6-l6">もいたうはをちすなきなとはせねと</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p6-l7">こすりわねもいられ教むくかしうおほ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p6-l8">えてみかしろきふらにまへり夜ひ</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p6-l9">とよ風ふきあるゝにけにかくおはせ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p6-l10">こゝましははいから心ほそからよしを</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p6-l11">なしくはよろしき御ほとにおはし</seg>
+      </ab>
+      <ab n="7" corresp="#surface-7" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00006.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p7-l1">まさましかはとさゝめきあへりめのとは</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p7-l2">うしろめたさにいとちかくさもつらふ</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p7-l3">風すこし吹や見たるに夜ふかくいて</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p7-l4">たもふきことありかをなりやいとあて</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p7-l5">れにみたてうつる御ありさまをいま</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p7-l6">はよして時のさもおほくはなけらる</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p7-l7">へしあけくれひとりなるめはへる所に</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p7-l8">わたしたてまつらんかくてのみはいかゝ物</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p7-l9">をちしたまえさりけるとのたま</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p7-l10">扨は最も御むかへにときこしたまふ</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p7-l11">めれとこの御四十九日すくしてやな</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p7-l12">れはさりともかゝる御ほとに心ちれ</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p7-l13">きころつかひてむや猶よにしぬ</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p7-l14">心さしのほとをみえてたまへ東のた</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p7-l15">まふあくれふりあれていみし</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p7-l16">う物をそろしき夜のさまなり</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p7-l17">いかてかく人すくなに心ほかく</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p7-l18">てすくしたまふらんとうらなきて</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p7-l19">いと見すてかたきさまなれはみ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p7-l20">かうしまいりねいとものさわかしき</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p7-l21">よのさまなれはとのゐんにて候はむ</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p7-l22">人へちかくさふらはれよかしとて</seg>
+      </ab>
+      <ab n="8" corresp="#surface-8" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00007.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p8-l1">いとなれかほに御帳のうちに米は</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p8-l2">いたきていりたまかわいとおもひの</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p8-l3">ほかにあやしくもとあきれて</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p8-l4">たれゝもゐたりめのとはうしろめ</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p8-l5">たうわりなしとおもへとあらましう</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p8-l6">きこえさはかむもなかくなれはう</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p8-l7">ちなけきつゝよりみたり君えいと</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p8-l8">をそろしうわなゝかれていとうへく</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p8-l9">しきはたつきをそゝろさむけにお</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p8-l10">もほしたるもらうたくてわか御心に</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p8-l11">しうたておほさる袖はひとまはかりは</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p8-l12">山さとによかりわたるほとになむかく</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p8-l13">とはせたまふかしこまりはこの世な</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p8-l14">らてもきこゝはさせむとなむありい</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p8-l15">とあはれとおほす秋のゆふへはたゑて</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p8-l16">いとゝ心のいとまなくのみおほしみたる</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p8-l17">る人の御あたりに心をかけきこえ</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p8-l18">てかうあなかちなるゆかりもたつね</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p8-l19">まほしき心のまさりたまふなるへし</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p8-l20">きこむろゝなきとありしゆふへお</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p8-l21">ほしいてられてこひしくさたみ彼</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p8-l22">おとりやせむとさするにあやう新</seg>
+      </ab>
+      <ab n="9" corresp="#surface-9" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00008.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p9-l1">てにつみていつしかもみんむらさ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p9-l2">きのねにかよひける野辺のわかくさ</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p9-l3">十月に朱雀院の行幸あるへしはへ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p9-l4">人なとやむことなきいゑのことん上達</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p9-l5">部殿上人なと北のかたにつき〳〵しき</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p9-l6">みなもらせたよくはみこたち大臣</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p9-l7">よりはしめたてうつりてとり〳〵のさ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p9-l8">えをならはしたまふによの中おも</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p9-l9">しろくいとまなき心ちしてすこし</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p9-l10">さきよはしるかの山さとにもひされ</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p9-l11">うおとしたまはねはおほしいてこ人つ</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p9-l12">かはしたれ彼僧都の御庭のみそある</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p9-l13">たちぬる月のはつかのほしになむつひに</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p9-l14">むなしくみなしはへりてせけむのた</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p9-l15">うりにはへれとかなしひおもふたま</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p9-l16">ふるなとありみたまふに世中のはかな</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p9-l17">さすあはつにうしろめたけにおもひ</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p9-l18">たりし人もいかゝをさなきほとにこ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p9-l19">ひやすらむみやすへ所にをくれたて</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p9-l20">まへりしほとなとはか〳〵しからねと</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p9-l21">おほしいてゝあさから数とふらひたる</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p9-l22">へり少納言ゆへなから数御近きこと御</seg>
+      </ab>
+      <ab n="10" corresp="#surface-10" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00009.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p10-l1">いみなとすくしてみくるらもおはした</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p10-l2">りいとすこけにあれたるところの</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p10-l3">人すくなゝるにをはなき</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p10-l4">ものをそろしからむとみえたりれい</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p10-l5">のところにいれたてよつりて少納て</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p10-l6">うちなきつゝ御ありことまきこえつゝ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p10-l7">くるにあいなう御そてたゝなし数み</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p10-l8">やにわたしたてまつらむとはへめる</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p10-l9">をこひめきみのいとなさけなくう</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p10-l10">きものにおもひきこえたまへりし</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p10-l11">あたりにむけのちこにはあらぬほ</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p10-l12">こほこの寺におはせし源氏のきみこ</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p10-l13">そおはすなれなとみたこはぬといと</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p10-l14">うつくしきこゑにてのたまふをいとる</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p10-l15">たわらいたしとん〳〵思てあなかまなを</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p10-l16">きこゆるなるへしいさみしかは心ちの</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p10-l17">あしさもなくさむとのたよるしかは</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p10-l18">そかしとかしこきこときゝたりとお</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p10-l19">ほしてのたまふをいとをりしとおほせと</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p10-l20">この人のくるしをおもひたれぬ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p10-l21">きかぬやうにてまりやかなる御とふら</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p10-l22">ひともきこえをきくいてたまふ</seg>
+      </ab>
+      <ab n="11" corresp="#surface-11" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00010.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p11-l1">遣にいふかひなれをさなさやさりとん</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p11-l2">いとよくをしへなしてむとおほすあし</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p11-l3">たにもいとこきやかにきこえ給れいの</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p11-l4">ちいさくて</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p11-l5">いはけなきたつのひとゝろいきゝし</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p11-l6">よりあしよになひくふねそえならぬ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p11-l7">をなしんをやとことさらにをさなく</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p11-l8">かきなしたまへるしはいみしう</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p11-l9">をかしけなりやかて御手本にと人〳〵</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p11-l10">きこゆ御通少納言そきこゆるたま</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p11-l11">はせたかは今日もすくしかたけにて</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p11-l12">めのとにさしよりていとみそかにいさ</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p11-l13">かしいまはねふたきにとのたさま</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p11-l14">はいまさらになにしのひたまふらむ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p11-l15">このひさのうへにおほとつこもねりて</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p11-l16">いますこしよりたまへとのたまへはさ</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p11-l17">れはこそかくよへかぬ御ほとになん</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p11-l18">とてちかくをしよせたてうつりたれ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p11-l19">彼なに心もなくてゐたまへるにて</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p11-l20">をさしいれくさくれはなよゝかな</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p11-l21">る御そにかみはつや〳〵とかゝりててて</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p11-l22">すゑの小さやかにさくられたる</seg>
+      </ab>
+      <ab n="12" corresp="#surface-12" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00011.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p12-l1">ほといとをりしうゝつくしうおもひ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p12-l2">やゝる御てをとらへたさへれ波れいな</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p12-l3">らぬ人のかくちりつきたまへるをゝ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p12-l4">そろしとおほしてねなむといふ物を</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p12-l5">とてひきいもたよふにつきてやかて</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p12-l6">すへりいりたまふいまはこれそ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p12-l7">おほすへき人なうと見たまひそ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p12-l8">とのたまふめのといてうたてゆこし</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p12-l9">うもはへるかなきこえさせしらせ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p12-l10">たまふらんなにのかひもはへらし</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p12-l11">ものをとてくるしきにおもひた</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p12-l12">とにてこすかにはる〳〵しく人の御け</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p12-l13">しきありさまもおほしるへくも</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p12-l14">あらぬなかすらなる御ほとにてあ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p12-l15">またものしたまふなるなるのあなへ</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p12-l16">らはらさにてやよしらはせたまは</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p12-l17">むとすきたまひぬるもよくもにお</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p12-l18">はしなけきつるを心くるしきことお</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p12-l19">ほくはへるにかくかたしけなきなけ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p12-l20">の御ことのはをのちのこともたとる</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p12-l21">にしくたゝいとうれしきことに思従</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p12-l22">へられぬへきをりに彼へりなから</seg>
+      </ab>
+      <ab n="13" corresp="#surface-13" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00012.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p13-l1">すこしばなすらひぬへきほとにも</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p13-l2">のせさせ給ちましかは御としのほとに</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p13-l3">りもあやしくわかひてならひたま</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p13-l4">へれはいとかたわらいたくときこ</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p13-l5">ゆるにかゝうくりかへしきこえしら</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p13-l6">する心のほとをおほしうたかふらむ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p13-l7">そのいふかひなき御さまのいとゆかし</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p13-l8">うあはりにおほしたまふもさるへ</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p13-l9">きにこそとちたりことになん心な</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p13-l10">からもおもおもつも猶人つて</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p13-l11">ならてきこえしらせはや</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p13-l12">あしわのうらにみるめはかたくと</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p13-l13">もこはたちなからかへるなみか直に</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p13-l14">めさましからむとのたさへ彼けにこ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p13-l15">そりしこけれとて</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p13-l16">よりしこけれをて</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p13-l17">俊盛</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p13-l18">よるなみのころもしらてわかの</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p13-l19">浦にたまもなひかむほらろうきたる</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p13-l20">わりなきことゝきこゆるさまのなれ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p13-l21">たるそすこしつ見ゆるされたるな</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p13-l22">そこひさらむとうちすしたまへる</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p13-l23">をわかき人はみにし見えためてたし</seg>
+        <lb/>
+        <seg type="本文" n="24" corresp="#zone-p13-l24">とおもひきこえたりひめ君うへを</seg>
+      </ab>
+      <ab n="14" corresp="#surface-14" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00013.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p14-l1">こ悲きこえたまひてなきふした</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p14-l2">まへるに御あそひかたきのこともの</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p14-l3">なをしすかたなる人おはす宮の</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p14-l4">おはしますなめりときこゆれは</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p14-l5">をきて少納言になをしきためつ</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p14-l6">らむはいつか宮のおえするからて</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p14-l7">まりおはするこゑいとらうたけなり</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p14-l8">宮にはあらねとおほしすつへき人</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p14-l9">にもはら朝ころとのたよふをはつか</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p14-l10">し果りしんるをさすかにきゝな</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p14-l11">あしてあしういひてけりとおほして</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p14-l12">はねはかへるもなさけなけれとあけ</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p14-l13">ゆくそらはしたなくてとのへおはし</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p14-l14">ぬをゝしかりつる人のなこりこひしく</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p14-l15">一人ゑみゑてふしたまへり日たるく</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p14-l16">御とのこもりおきてふみやりた</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p14-l17">まふにかくへきことのはもれいならねは</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p14-l18">筆うちをきつゝすさみ給たまへり</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p14-l19">するとのをかしきをやりふよふか</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p14-l20">しこには遣ふしも宮わたりたま</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p14-l21">へりとしころよりもこよなくあはれ</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p14-l22">まはりひ大くものふりたる所の</seg>
+      </ab>
+      <ab n="15" corresp="#surface-15" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00014.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p15-l1">いとゝ人すくなにさひしけれは見</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p15-l2">わたしたまるくかゝる東ころこ</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p15-l3">はいりてかしはしもをさなきんの</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p15-l4">すくしたまはむ猶かしこへわたし</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p15-l5">たてよへりらくむなにのところせき</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p15-l6">御ほとにもあら数めのとはさうしこ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p15-l7">として候なむ君はわかき人〳〵あれは</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p15-l8">もろらんにうちあそひくいとよく</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p15-l9">ものしたよひなんなとのたよふちか</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p15-l10">うよひよせたてさつりたまへる</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p15-l11">にかの御うつわかのいみしう其むに</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p15-l12">しみかへりたまへれ波をはしの御</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p15-l13">にほひや御弓はなみてといと心くる</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p15-l14">しけにおもほしたりとしころも</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p15-l15">あいしくさたすきたまひにたる</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p15-l16">人にそひたまへるよりは時〳〵かしこ</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p15-l17">にわたしなとしてめならしたまへ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p15-l19">ときこえしをあやしくうと見へ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p15-l20">て人も心をくめりしにかゝるをり</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p15-l21">しもゝのしたまむも心くるし</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p15-l22">うなむとのたまへはかゝるすほい</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p15-l23">にゑもなにかは心ほかくとんしはし</seg>
+      </ab>
+      <ab n="16" corresp="#surface-16" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00015.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p16-l1">かくておはしよしなむすこしものこ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p16-l2">心をもおほしゝりなむほとにわた</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p16-l3">らせ給はむこそようはゝへこけれと</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p16-l4">きこゆよるなるこひきこえ給に</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p16-l5">はかなきものもきこしめま数とて</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p16-l6">けにいたうおもやせたまへれとあ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p16-l7">てにうつくしけになか〳〵みたまふ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p16-l8">なにかさしもおもおもふいま</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p16-l9">はよくなき人の御刀はかひなえ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p16-l10">をのれあれはなとかたらひ浪斎</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p16-l11">くるれはかへりたまふを伊と心</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p16-l12">ほそしとおもひたまひていみしう</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p16-l13">なきたまへ彼宮もうちなき給て</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p16-l14">いとりくおもほしいりためなをけふ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p16-l15">あすわたしたてまへりてむとなく</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p16-l16">こしらへをきてわたりたまひぬな</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p16-l17">こりもなくさめかきくなきゐたま</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p16-l18">へりゆくさきみのあらんさまなとま</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p16-l19">てもおもほしたとら数たゝとしこ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p16-l20">ろたちはなるゝをりなくなれさつ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p16-l21">はしたこえならひていまておはせ</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p16-l22">ぬ人となりたまひにけりとおもふる</seg>
+      </ab>
+      <ab n="17" corresp="#surface-17" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00016.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p17-l1">いみしきにをさなき恨さしき御心</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p17-l2">ちなれとむねもつとふたかりてねいの</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p17-l3">やうにあそひもしたまえ数日るは</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p17-l4">さてもさきらはし給をゆふくれと</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p17-l5">なればいみしうくんしてかくては</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p17-l6">いかてかすくしけとはむとなくさ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p17-l7">めわつらひてめのともなきあへり</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p17-l8">君の御もとよりはこれみつをたて</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p17-l9">よつれたきへりまいめくへきに内</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p17-l10">よりめしのあれは其なむ心くるし</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p17-l12">うみたてまへりしもしつ心なく</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p17-l13">論</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p17-l14">物むつかしうおほえたまるて南</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p17-l15">をもてにあつまをすつゝきて龍</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p17-l16">たちにも田をこそつくれといふ歌を</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p17-l17">教はなまめきとへすさひゐた</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p17-l18">まへりまいりたれはめしよせて</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p17-l19">ありさまとひろしか〳〵なむとき</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p17-l20">こゆれ波くちをしくおほしてこ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p17-l21">のくるにわたりなけはわさとむかへいて</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p17-l22">むも人めすき〳〵しかるへしをさ</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p17-l23">なき人ぬすみいてたりとば深き</seg>
+        <lb/>
+        <seg type="本文" n="24" corresp="#zone-p17-l24">なき人ぬすみいてたわともなき</seg>
+        <lb/>
+        <seg type="本文" n="25" corresp="#zone-p17-l25">をひなむそのさきにしはしんにも</seg>
+      </ab>
+      <ab n="18" corresp="#surface-18" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00017.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p18-l1">くちかためてわたしてむとおほし</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p18-l2">てあか月にかしこへものせむさる</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p18-l3">心して車のさうそ〳〵さなから法身</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p18-l4">のをのことも二三人はりおほせを</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p18-l5">きたれとのたまふうけたまえり</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p18-l6">てたちぬ君めるにせましきこえ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p18-l7">ありてすきかましかへいことゝし</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p18-l8">のほとたにものをおもひしり女の</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p18-l9">心かはしたることゝをしはるられぬ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p18-l10">へくは世のつねなり父みこのたつね</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p18-l11">いてかすまへらんいとすゝろにはした</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p18-l12">なかるつきをとおほしみたかれと</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p18-l13">さとへはへしてんはいとくちをしかるへ</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p18-l14">けれはもかた夜ふかくいてたまふ女の</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p18-l15">れいの衣ふ〳〵に心もとけてものし給に</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p18-l16">にしこにいとせちにみるへきことの</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p18-l17">はへるをおもふたまへいてこなむた</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p18-l18">らかへりまいりきなむしていてたま</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p18-l20">へはなやらふ人〳〵もしらさりけりわ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p18-l21">かさ方にて御直衣か生てまへりて</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p18-l22">これみつはるを御老にておはゝ</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p18-l23">ぬ門うれたゝかせ給へはころも</seg>
+      </ab>
+      <ab n="19" corresp="#surface-19" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00018.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p19-l1">しらぬものゝあけたるに御車や</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p19-l2">をらひきいれてれいのたいふり</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p19-l3">ををならしてしはふけは少納言さ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p19-l4">しりていてきたりこゝにおはし</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p19-l6">ますといへはをさなきんておほ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p19-l7">とのこもりてなむなとかはほと夜</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p19-l8">ふるくいてさせたまひつらんとものゝ</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p19-l9">たよりとおもひらへいふ宮へわた</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p19-l10">りたまふへるなるをそのさきに</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p19-l11">ものひとこときこしさせおもん</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p19-l12">とてなむとの左よへはなりことに</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p19-l13">かはへらむいかにはかくしき御いら</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p19-l14">へきこはたまはむをうちわらわらすて</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p19-l15">ゐたるにはひいりたまへはいとか</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p19-l16">たはらいたくてうちとげらくあや</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p19-l17">しきふるんとものはへるにときこ</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p19-l18">花またおとろいたよみしないて</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p19-l19">御あさましきここはむかゝるあ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p19-l20">さきりをしとてはぬるものかとて</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p19-l21">いりたまへはやとん其きこれあ其</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p19-l22">春君はなに心もなくねたまへるい</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p19-l23">たきをこしたよふにをとろきて</seg>
+      </ab>
+      <ab n="20" corresp="#surface-20" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00019.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p20-l1">宮のむかへにおはしたるとねをす</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p20-l2">れたる心ちにおほしたり御くゑ</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p20-l3">かたつくろひなとしたまひていさ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p20-l4">たまへ宮の御つかひにまいわきつ</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p20-l5">るそとのたまふてあらさりけり</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p20-l6">とあきれていとをそろしと</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p20-l7">恐たまへれはあな心うまろも</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p20-l8">をなしんとうてかきいたきて</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p20-l9">いてたまへの大夫少納言なとこ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p20-l10">はいりてときこゆれはつねにも</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p20-l11">其まいりこねかおほつかなけれは</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p20-l12">むにかなら数かすまへ申せ給へか伊</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p20-l13">久しく心ほそそなるさまにて石を</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p20-l14">きはへるなむねかひはへるみちにもい</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p20-l15">とゝ御またくらやなりはつらんなときこ</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p20-l16">其たまふちけれはいきのしたなる御</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p20-l17">こゑも心くるしうほのりたええ〳〵きこ</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p20-l18">みていとかたしけなき御ありてまに</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p20-l19">もはへるかなこのきみたにかしこ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p20-l20">さりをきこはたよひつつつきほとなら</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p20-l21">よしかはとのたまふあはれにきらたみ</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p20-l22">ひてなにかあさくおもふたまへ出</seg>
+      </ab>
+      <ab n="21" corresp="#surface-21" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00020.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p21-l1">ことのゆるかくすきいゝしきさよはみえ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p21-l2">たてまつらんいかなるちきりによみた</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p21-l3">てまつりそめしよりあはれにぬき</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p21-l4">こゝはさするもあやしききてこの</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p21-l5">世のみのことゝはおもふたよへはへら</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p21-l6">ぬをなときこみたゝかるてかくかひな</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p21-l7">半心をのみしはへるをかのいはけ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p21-l8">なからむ御こゑをいかくとのたよふ</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p21-l9">いてやよろつをもたほしこらぬさは</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p21-l10">にて御とのこもりたるなときこゆるは</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p21-l11">とにしもあなたまりくるおとしてうへ</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p21-l12">ならぬほとにおはしてにえのたいこ</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p21-l13">御車よせらへをりたよふ茲恵をは</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p21-l14">かならるにいたきをろしたまいつ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p21-l15">少納言猶いと夢の心ちしはへるを</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p21-l16">いかにしはへるへきことにかとやす</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p21-l17">らにそはこゝろなり御みつからわたし</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p21-l18">たてよへりつれはかへりなむと</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p21-l19">あらはをくわけむかしとのたよふに</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p21-l20">りりるくてをりぬにはかにあさ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p21-l21">にしうむねもし一りなら数宮のお</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p21-l23">ほしのたまらむこれそいかなるへき</seg>
+      </ab>
+      <ab n="22" corresp="#surface-22" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00021.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p22-l1">御ありてまにかとてもかくてもたの</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p22-l2">もしき人ゝにをくれきこゝみねへる</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p22-l3">かいみしさとおもふ涙もとゝす</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p22-l4">らぬをさすりにゆゝしけれはねん</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p22-l5">してゐたりこるたはすみたま</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p22-l6">はぬたいなれは御帳なとんにまた</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p22-l7">なかりけりこれみつめして御</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p22-l8">屏風ともあたり〳〵たてさせ行ひ</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p22-l9">御き丁のかたちら白きをろし</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p22-l10">をましなとたゝひきひろくより</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p22-l11">にてあれ皮東のたいに御とのぬ</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p22-l12">物とりにつかはしておほとのこもり</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p22-l13">ぬわかきみいとむくつけくいかな</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p22-l14">るにかとふるわれ給へとさすかにこ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p22-l15">ゑたてゝもなきたまえ数少納て</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p22-l16">かもとにねむとのたよふこゑいと</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p22-l17">わかしいまはさはおほとのこもる</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p22-l18">よしきかよこをしへきこえたまへ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p22-l19">はいとわひしくてなきふしたま</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p22-l20">へりめのとはうちもふされ数もの</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p22-l21">もおほえてをきゐたりあけゆ</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p22-l22">〳〵さくにかみわたせはおとゝのしつ</seg>
+      </ab>
+      <ab n="23" corresp="#surface-23" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00022.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p23-l1">らひつくりはまこらにもいはす庭の</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p23-l2">すなこもたまをかはねたらん</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p23-l3">やうにみしてかゝやく心ちするに</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p23-l4">はしたなく思ゐたれとこなたは女</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p23-l5">房なともこふらえさりけりう</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p23-l6">ときまらうとまいりなとするを</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p23-l7">わふしのかたなりけれはをとこと</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p23-l8">もるみすのみにありけるかく人</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p23-l9">むかへたまへりとほのきく人はた</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p23-l10">れならむおほろけにはあらしとささゝ</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p23-l11">めく御かゆ御手水なとみなこなた</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p23-l12">にまいるひたかくねをきたまひて</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p23-l13">人なくてあしかめるをさるへき</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p23-l14">人々もゆふつけてこそはむかへさせ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p23-l15">たましめとのたまえせてたいへわら</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p23-l16">はへめしにつかし数ちひさきかき</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p23-l17">りことさらにまいれをありけれは</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p23-l18">いとをかしけにて四人まいわり君は</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p23-l19">御公にまつはれてふえたまつる</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p23-l20">をせめてをこしてころうく候</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p23-l21">おはせそよすゝろなる人はかく</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p23-l23">はありなむやをんなは心やはら</seg>
+      </ab>
+      <ab n="24" corresp="#surface-24" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00023.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p24-l1">かなるなんよきならいまよりをふ</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p24-l2">きこえたまふよほたちはさしはな</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p24-l3">れてはつかにみたまひしよりもいみ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p24-l4">しうきよらにうつくしけれはなつ</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p24-l5">かしそゝちかたよひつゝをかし幾</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p24-l6">あまひ物をとりにつかはしてみせた</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p24-l7">てさつめなと御心につく月をしたま</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p24-l8">ふにやう〳〵をきゐてみたまふ銀</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p24-l9">心のこよやかなるかうちなへたる</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p24-l10">ともをきてなる心もなくうちゑ</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p24-l12">見なとしてゐたまへるかいとうつく</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p24-l13">しきにわれもうちままれてみ</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p24-l14">たまふひむかしのたいへわたりたまへ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p24-l15">るまにたちいてゝにみのこたち池</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p24-l16">のかたなとのそきたまへは霜かれ</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p24-l17">の前栽ゑにかきたるやうにてみ</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p24-l18">もしらぬ四法而位こきよけにひま</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p24-l19">なくいていりつゝけにをかしきとこ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p24-l20">ろかなをおほす屏風なとのいまめる</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p24-l21">しきゑをみくゝなくさみておは</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p24-l22">するもはかなしや君はふつかみ</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p24-l23">か国へもよいりたまは数この人を</seg>
+      </ab>
+      <ab n="25" corresp="#surface-25" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00024.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p25-l1">なつけかたらひきこひたまふ手</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p25-l2">習絵なとさま〳〵にかきつゝみせ</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p25-l3">たてまつりたとふやかて本にと</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p25-l4">おほすにやあらんいみしうをか</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p25-l5">し今にかきあつめたまへりむさ</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p25-l6">一しのといへはかこたれぬとむらこ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p25-l7">きのかみにかきたまへるすみへ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p25-l8">幾のいとことなるをとりてみぬた</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p25-l9">まへりすこしちひさくて</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p25-l10">ねはみねとあはれとそ思むさし</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p25-l11">野ゝ露わけわふるくさのゆかりを</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p25-l12">きたのかたも母き見をにくしと</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p25-l13">おことひきこゝはし心うけてわか心と</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p25-l14">さかせつへくおほしけるにくれ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p25-l15">をしかりける人々やう〳〵まいりあ</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p25-l16">つまかぬ御あそひかたきのわら</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p25-l17">はへもわかき心ちとんにいとめつらか</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p25-l18">にいまめかしき御ありことまなれは</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p25-l19">おもふまなくてあそひあへり君は</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p25-l20">おとこ君おはせすなとしてさう</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p25-l21">きゆふくれなと所あまき見</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p25-l22">ぬきこはたまるくうちなき</seg>
+      </ab>
+      <ab n="26" corresp="#surface-26" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00025.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p26-l1">なとしたまへと宮をはことにお</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p26-l2">もひいてきこはたよこすもと</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p26-l3">よりみなれたてよくりたまは</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p26-l4">ていまはたゝこのゝちのをやを</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p26-l5">いもしうまつはしきこえたまふ</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p26-l6">ものよりおはすれはよついてむ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p26-l7">よひてあはれにかたらすて</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p26-l8">御ふところにいりゐていさゝ日</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p26-l9">うと〳〵はつかしきものともおも</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p26-l10">ひたまへらすさるかたにいみし</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p26-l11">うらうたきわさなりけるさかし</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p26-l12">のみあるもことはりなるなりにこの月</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p26-l13">こゝつはありしにささる御ものをもひに</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p26-l14">こと〳〵おほされてすきゆく秋のすゑ</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p26-l15">つかたはいとゝもの心ほそくてをき</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p26-l16">ふしなけきたまふ月のをかしき夜</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p26-l17">しのひたるところにからうしておほし</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p26-l18">たちたるみちにしくりたちてうれ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p26-l19">そゝくおはするところは京こくわ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p26-l20">たりなるに内よりなれはすこしほ</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p26-l21">とゝゆき心ちするにいたうあれたる</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p26-l22">ところのこたちものふりくさゝん</seg>
+      </ab>
+      <ab n="27" corresp="#surface-27" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00026.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p27-l1">みりたされたるありわいの御身はな</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p27-l2">れぬこれみつ御ともにてこれなむ故</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p27-l3">按察の大納言の御家にはへる一日も</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p27-l4">のゝたよりに収納言をわらひはへめし</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p27-l5">か彼かの尼うへはいたくよはりたまへれ</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p27-l6">はなにことんおほし数となむ申はへ</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p27-l7">しときこゆれはあはれのことやとふら</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p27-l8">ふへかりけるものをなとかさなむと</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p27-l9">もいはさめしいりて消息せよとのた</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p27-l10">まへはまへ人いれ候へいはすわすと</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p27-l11">いくたちよりたまへることゝいはせた</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p27-l12">心やすきところにときこゝはしを</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p27-l13">こゝろうくわたりたまひぬへかな</seg>
+        <lb/>
+        <seg type="本文" n="14" corresp="#zone-p27-l14">れはましてきこえかたかへきに</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p27-l15">よりなんひとり〳〵まいられよるしと</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p27-l16">のたまへは心あわたゝしくて遣ふは</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p27-l17">いとひむなくなむはへるへき宮の</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p27-l18">わたらせたまへらむにはいかさまこ</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p27-l19">かきこえやねんをのつからほとへ</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p27-l20">てさるへきにおはしまさはともかく</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p27-l21">もはへりなむをいとおもひやりなき</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p27-l22">ほとのことにはへれは御ふ人々</seg>
+      </ab>
+      <ab n="28" corresp="#surface-28" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00027.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p28-l1">いとくゐしうはへる鳥しとせぢに</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p28-l2">きこゆれはよしのちにもさらはまい</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p28-l3">られよはしとて御車よせさせ給へれ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p28-l4">よあさよしくていかにときこえあ</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p28-l5">へりふとのせたらへまつりたま</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p28-l6">ふにわかきみもあやしとおもほし</seg>
+        <lb/>
+        <seg type="本文" n="7" corresp="#zone-p28-l7">てなきたまふ少納言とゝめきこえ</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p28-l8">むかたなけれはよへぬひし御了</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p28-l9">ともひきかさねてみつり候もよ</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p28-l10">ろしきゝぬきかへくのりぬ二</seg>
+        <lb/>
+        <seg type="本文" n="11" corresp="#zone-p28-l11">条の院はちかけれはまたあかく</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p28-l12">一員さかしあせず</seg>
+        <lb/>
+        <seg type="本文" n="13" corresp="#zone-p28-l13">株食世町人最細ナリ)</seg>
+        <lb/>
+        <seg type="本文" n="15" corresp="#zone-p28-l15">へき人ものしたまえぬさよは</seg>
+        <lb/>
+        <seg type="本文" n="16" corresp="#zone-p28-l16">しろしめし候なるをたれにかはと</seg>
+        <lb/>
+        <seg type="本文" n="17" corresp="#zone-p28-l17">やすらへはをのつからさるやうこ所は</seg>
+        <lb/>
+        <seg type="本文" n="18" corresp="#zone-p28-l18">と思なしたまへかしとのたよへ彼</seg>
+        <lb/>
+        <seg type="本文" n="19" corresp="#zone-p28-l19">いりてかくなむときこゆあないま</seg>
+        <lb/>
+        <seg type="本文" n="20" corresp="#zone-p28-l20">めかしやこの君や世つきたるほとに</seg>
+        <lb/>
+        <seg type="本文" n="21" corresp="#zone-p28-l21">おはするとおほしたるならんと思に</seg>
+        <lb/>
+        <seg type="本文" n="22" corresp="#zone-p28-l22">このわかくさはいかてきゝたまへる</seg>
+        <lb/>
+        <seg type="本文" n="23" corresp="#zone-p28-l23">ならむとささ〳〵あやしきにこゝろ</seg>
+        <lb/>
+        <seg type="本文" n="24" corresp="#zone-p28-l24">見たれくひさしくなれはなさ</seg>
+        <lb/>
+        <seg type="本文" n="25" corresp="#zone-p28-l25">けなきやうにやとて</seg>
+      </ab>
+      <ab n="29" corresp="#surface-29" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00028.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p29-l1">寂蓮法師真蹟一冊</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p29-l2">わらはやみ君紫巻</seg>
+        <lb/>
+        <seg type="本文" n="3" corresp="#zone-p29-l3">無疑者也</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p29-l4">古筆</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p29-l5">文化十二年</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p29-l8">初夏仲旬</seg>
+      </ab>
+      <ab n="30" corresp="#surface-30" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00029.tif/full/full/0/default.jpg">
+        <lb/>
+        <seg type="本文" n="1" corresp="#zone-p30-l1">此本の原本は伝寂蓮法師真筆本</seg>
+        <lb/>
+        <seg type="本文" n="2" corresp="#zone-p30-l2">にして竪五寸四分五厘横幸下の桐蝶装こ</seg>
+        <lb/>
+        <seg type="本文" n="4" corresp="#zone-p30-l4">写残献本なり紙数二十三枚あり用紙</seg>
+        <lb/>
+        <seg type="本文" n="5" corresp="#zone-p30-l5">は馬の子にて表紙日燕色平綿模様</seg>
+        <lb/>
+        <seg type="本文" n="6" corresp="#zone-p30-l6">は本地甲形の内にかたはみくすしを織公</seg>
+        <lb/>
+        <seg type="本文" n="8" corresp="#zone-p30-l8">し表紙の見返しには全泥を散らしたり</seg>
+        <lb/>
+        <seg type="本文" n="9" corresp="#zone-p30-l9">明和六年十一月十四日</seg>
+        <lb/>
+        <seg type="本文" n="10" corresp="#zone-p30-l10">於渋西満居</seg>
+        <lb/>
+        <seg type="本文" n="12" corresp="#zone-p30-l12">八はと羽</seg>
+      </ab>
+      <ab n="31" corresp="#surface-31" type="page" facs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00030.tif/full/full/0/default.jpg"/>
+    </body>
+  </text>
+  <facsimile sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/manifest">
+    <surface xml:id="surface-1" n="1" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/1" ulx="0" uly="0" lrx="3307" lry="4678">
+      <label>1</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00000.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00000.tif" width="3307px" height="4678px"/>
+      <zone type="本文" n="1" ulx="644" uly="1240" lrx="834" lry="1364" xml:id="zone-p1-l1"/>
+      <zone type="本文" n="3" ulx="2367" uly="1190" lrx="2714" lry="1427" xml:id="zone-p1-l3"/>
+      <zone type="本文" n="4" ulx="2138" uly="1190" lrx="2311" lry="1427" xml:id="zone-p1-l4"/>
+      <zone type="本文" n="5" ulx="584" uly="1953" lrx="867" lry="2079" xml:id="zone-p1-l5"/>
+      <zone type="本文" n="6" ulx="617" uly="2491" lrx="787" lry="2584" xml:id="zone-p1-l6"/>
+      <zone type="本文" n="7" ulx="609" uly="3081" lrx="801" lry="3207" xml:id="zone-p1-l7"/>
+      <zone type="本文" n="8" ulx="1204" uly="2196" lrx="1672" lry="2405" xml:id="zone-p1-l8"/>
+      <zone type="本文" n="9" ulx="2389" uly="2201" lrx="2537" lry="2377" xml:id="zone-p1-l9"/>
+      <zone type="本文" n="10" ulx="1617" uly="2692" lrx="1865" lry="2876" xml:id="zone-p1-l10"/>
+      <zone type="本文" n="11" ulx="1956" uly="2725" lrx="2157" lry="2860" xml:id="zone-p1-l11"/>
+      <zone type="本文" n="12" ulx="1196" uly="3072" lrx="1725" lry="3215" xml:id="zone-p1-l12"/>
+      <zone type="本文" n="13" ulx="1129" uly="3896" lrx="1319" lry="4105" xml:id="zone-p1-l13"/>
+      <zone type="本文" n="14" ulx="1805" uly="3880" lrx="2532" lry="4130" xml:id="zone-p1-l14"/>
+    </surface>
+    <surface xml:id="surface-2" n="2" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/2" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>2</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00001.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00001.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="838" uly="549" lrx="1175" lry="1291" xml:id="zone-p2-l1"/>
+      <zone type="本文" n="2" ulx="3119" uly="2503" lrx="3203" lry="2593" xml:id="zone-p2-l2"/>
+    </surface>
+    <surface xml:id="surface-3" n="3" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/3" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>3</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00002.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00002.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="3921" uly="1858" lrx="3993" lry="2413" xml:id="zone-p3-l1"/>
+    </surface>
+    <surface xml:id="surface-4" n="4" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/4" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>4</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00003.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00003.tif" width="7240px" height="3736px"/>
+    </surface>
+    <surface xml:id="surface-5" n="5" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/5" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>5</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00004.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00004.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="2268" uly="567" lrx="2575" lry="2027" xml:id="zone-p5-l1"/>
+      <zone type="本文" n="3" ulx="1912" uly="796" lrx="2243" lry="2352" xml:id="zone-p5-l3"/>
+      <zone type="本文" n="5" ulx="1339" uly="1067" lrx="1526" lry="3003" xml:id="zone-p5-l5"/>
+      <zone type="本文" n="6" ulx="1164" uly="1049" lrx="1363" lry="3046" xml:id="zone-p5-l6"/>
+      <zone type="本文" n="7" ulx="1013" uly="1055" lrx="1187" lry="2032" xml:id="zone-p5-l7"/>
+    </surface>
+    <surface xml:id="surface-6" n="6" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/6" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>6</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00005.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00005.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="2950" uly="651" lrx="3155" lry="3076" xml:id="zone-p6-l1"/>
+      <zone type="本文" n="2" ulx="2769" uly="663" lrx="2962" lry="3076" xml:id="zone-p6-l2"/>
+      <zone type="本文" n="3" ulx="2564" uly="669" lrx="2751" lry="3076" xml:id="zone-p6-l3"/>
+      <zone type="本文" n="4" ulx="2346" uly="675" lrx="2539" lry="3076" xml:id="zone-p6-l4"/>
+      <zone type="本文" n="5" ulx="2153" uly="669" lrx="2358" lry="3088" xml:id="zone-p6-l5"/>
+      <zone type="本文" n="6" ulx="1948" uly="675" lrx="2147" lry="3088" xml:id="zone-p6-l6"/>
+      <zone type="本文" n="7" ulx="1737" uly="675" lrx="1942" lry="3076" xml:id="zone-p6-l7"/>
+      <zone type="本文" n="8" ulx="1508" uly="675" lrx="1725" lry="3088" xml:id="zone-p6-l8"/>
+      <zone type="本文" n="9" ulx="1291" uly="675" lrx="1508" lry="3088" xml:id="zone-p6-l9"/>
+      <zone type="本文" n="10" ulx="1086" uly="669" lrx="1321" lry="3088" xml:id="zone-p6-l10"/>
+      <zone type="本文" n="11" ulx="905" uly="669" lrx="1110" lry="3082" xml:id="zone-p6-l11"/>
+    </surface>
+    <surface xml:id="surface-7" n="7" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/7" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>7</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00006.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00006.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5979" uly="675" lrx="6184" lry="3076" xml:id="zone-p7-l1"/>
+      <zone type="本文" n="2" ulx="5792" uly="681" lrx="5991" lry="3076" xml:id="zone-p7-l2"/>
+      <zone type="本文" n="3" ulx="5586" uly="675" lrx="5797" lry="3088" xml:id="zone-p7-l3"/>
+      <zone type="本文" n="4" ulx="5369" uly="675" lrx="5574" lry="3076" xml:id="zone-p7-l4"/>
+      <zone type="本文" n="5" ulx="5170" uly="675" lrx="5375" lry="3070" xml:id="zone-p7-l5"/>
+      <zone type="本文" n="6" ulx="4959" uly="669" lrx="5164" lry="3076" xml:id="zone-p7-l6"/>
+      <zone type="本文" n="7" ulx="4760" uly="669" lrx="4959" lry="3070" xml:id="zone-p7-l7"/>
+      <zone type="本文" n="8" ulx="4555" uly="669" lrx="4754" lry="3058" xml:id="zone-p7-l8"/>
+      <zone type="本文" n="9" ulx="4344" uly="675" lrx="4543" lry="3058" xml:id="zone-p7-l9"/>
+      <zone type="本文" n="10" ulx="4156" uly="675" lrx="4343" lry="3058" xml:id="zone-p7-l10"/>
+      <zone type="本文" n="11" ulx="3957" uly="675" lrx="4156" lry="3064" xml:id="zone-p7-l11"/>
+      <zone type="本文" n="12" ulx="2968" uly="669" lrx="3155" lry="3046" xml:id="zone-p7-l12"/>
+      <zone type="本文" n="13" ulx="2751" uly="669" lrx="2950" lry="3040" xml:id="zone-p7-l13"/>
+      <zone type="本文" n="14" ulx="2527" uly="663" lrx="2738" lry="3046" xml:id="zone-p7-l14"/>
+      <zone type="本文" n="15" ulx="2334" uly="675" lrx="2533" lry="3046" xml:id="zone-p7-l15"/>
+      <zone type="本文" n="16" ulx="2135" uly="681" lrx="2334" lry="3046" xml:id="zone-p7-l16"/>
+      <zone type="本文" n="17" ulx="1924" uly="687" lrx="2171" lry="3058" xml:id="zone-p7-l17"/>
+      <zone type="本文" n="18" ulx="1701" uly="681" lrx="1918" lry="3064" xml:id="zone-p7-l18"/>
+      <zone type="本文" n="19" ulx="1514" uly="687" lrx="1713" lry="3064" xml:id="zone-p7-l19"/>
+      <zone type="本文" n="20" ulx="1279" uly="693" lrx="1496" lry="3058" xml:id="zone-p7-l20"/>
+      <zone type="本文" n="21" ulx="1086" uly="705" lrx="1333" lry="3064" xml:id="zone-p7-l21"/>
+      <zone type="本文" n="22" ulx="886" uly="730" lrx="1115" lry="3070" xml:id="zone-p7-l22"/>
+    </surface>
+    <surface xml:id="surface-8" n="8" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/8" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>8</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00007.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00007.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5991" uly="705" lrx="6208" lry="3088" xml:id="zone-p8-l1"/>
+      <zone type="本文" n="2" ulx="5810" uly="705" lrx="6003" lry="3100" xml:id="zone-p8-l2"/>
+      <zone type="本文" n="3" ulx="5611" uly="705" lrx="5816" lry="3094" xml:id="zone-p8-l3"/>
+      <zone type="本文" n="4" ulx="5399" uly="699" lrx="5610" lry="3094" xml:id="zone-p8-l4"/>
+      <zone type="本文" n="5" ulx="5212" uly="724" lrx="5393" lry="3058" xml:id="zone-p8-l5"/>
+      <zone type="本文" n="6" ulx="4995" uly="705" lrx="5182" lry="3082" xml:id="zone-p8-l6"/>
+      <zone type="本文" n="7" ulx="4796" uly="699" lrx="4983" lry="3076" xml:id="zone-p8-l7"/>
+      <zone type="本文" n="8" ulx="4603" uly="705" lrx="4784" lry="3076" xml:id="zone-p8-l8"/>
+      <zone type="本文" n="9" ulx="4380" uly="699" lrx="4579" lry="3070" xml:id="zone-p8-l9"/>
+      <zone type="本文" n="10" ulx="4169" uly="699" lrx="4356" lry="3064" xml:id="zone-p8-l10"/>
+      <zone type="本文" n="11" ulx="3951" uly="693" lrx="4150" lry="3070" xml:id="zone-p8-l11"/>
+      <zone type="本文" n="12" ulx="3010" uly="663" lrx="3191" lry="3052" xml:id="zone-p8-l12"/>
+      <zone type="本文" n="13" ulx="2799" uly="663" lrx="3004" lry="3064" xml:id="zone-p8-l13"/>
+      <zone type="本文" n="14" ulx="2606" uly="675" lrx="2799" lry="3052" xml:id="zone-p8-l14"/>
+      <zone type="本文" n="15" ulx="2395" uly="663" lrx="2606" lry="3052" xml:id="zone-p8-l15"/>
+      <zone type="本文" n="16" ulx="2184" uly="657" lrx="2389" lry="3058" xml:id="zone-p8-l16"/>
+      <zone type="本文" n="17" ulx="1966" uly="657" lrx="2201" lry="3046" xml:id="zone-p8-l17"/>
+      <zone type="本文" n="18" ulx="1773" uly="657" lrx="1972" lry="3058" xml:id="zone-p8-l18"/>
+      <zone type="本文" n="19" ulx="1574" uly="681" lrx="1779" lry="2979" xml:id="zone-p8-l19"/>
+      <zone type="本文" n="20" ulx="1375" uly="651" lrx="1586" lry="3064" xml:id="zone-p8-l20"/>
+      <zone type="本文" n="21" ulx="1164" uly="651" lrx="1387" lry="3052" xml:id="zone-p8-l21"/>
+      <zone type="本文" n="22" ulx="959" uly="651" lrx="1194" lry="2979" xml:id="zone-p8-l22"/>
+    </surface>
+    <surface xml:id="surface-9" n="9" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/9" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>9</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00008.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00008.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5954" uly="802" lrx="6159" lry="3064" xml:id="zone-p9-l1"/>
+      <zone type="本文" n="2" ulx="5755" uly="699" lrx="5972" lry="3076" xml:id="zone-p9-l2"/>
+      <zone type="本文" n="3" ulx="5562" uly="681" lrx="5773" lry="3088" xml:id="zone-p9-l3"/>
+      <zone type="本文" n="4" ulx="5345" uly="681" lrx="5568" lry="3088" xml:id="zone-p9-l4"/>
+      <zone type="本文" n="5" ulx="5164" uly="693" lrx="5381" lry="3076" xml:id="zone-p9-l5"/>
+      <zone type="本文" n="6" ulx="4959" uly="699" lrx="5164" lry="3076" xml:id="zone-p9-l6"/>
+      <zone type="本文" n="7" ulx="4766" uly="705" lrx="4965" lry="3076" xml:id="zone-p9-l7"/>
+      <zone type="本文" n="8" ulx="4555" uly="711" lrx="4748" lry="3076" xml:id="zone-p9-l8"/>
+      <zone type="本文" n="9" ulx="4350" uly="717" lrx="4543" lry="3076" xml:id="zone-p9-l9"/>
+      <zone type="本文" n="10" ulx="4144" uly="711" lrx="4343" lry="3070" xml:id="zone-p9-l10"/>
+      <zone type="本文" n="11" ulx="3945" uly="699" lrx="4168" lry="3076" xml:id="zone-p9-l11"/>
+      <zone type="本文" n="12" ulx="2968" uly="681" lrx="3179" lry="3088" xml:id="zone-p9-l12"/>
+      <zone type="本文" n="13" ulx="2775" uly="675" lrx="2980" lry="3082" xml:id="zone-p9-l13"/>
+      <zone type="本文" n="14" ulx="2582" uly="669" lrx="2775" lry="3082" xml:id="zone-p9-l14"/>
+      <zone type="本文" n="15" ulx="2377" uly="663" lrx="2570" lry="3088" xml:id="zone-p9-l15"/>
+      <zone type="本文" n="16" ulx="2147" uly="663" lrx="2376" lry="3088" xml:id="zone-p9-l16"/>
+      <zone type="本文" n="17" ulx="1936" uly="663" lrx="2159" lry="3082" xml:id="zone-p9-l17"/>
+      <zone type="本文" n="18" ulx="1749" uly="669" lrx="1972" lry="3064" xml:id="zone-p9-l18"/>
+      <zone type="本文" n="19" ulx="1544" uly="669" lrx="1761" lry="3076" xml:id="zone-p9-l19"/>
+      <zone type="本文" n="20" ulx="1351" uly="669" lrx="1544" lry="3076" xml:id="zone-p9-l20"/>
+      <zone type="本文" n="21" ulx="1134" uly="663" lrx="1351" lry="3088" xml:id="zone-p9-l21"/>
+      <zone type="本文" n="22" ulx="923" uly="657" lrx="1158" lry="3100" xml:id="zone-p9-l22"/>
+    </surface>
+    <surface xml:id="surface-10" n="10" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/10" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>10</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00009.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00009.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5979" uly="675" lrx="6184" lry="3064" xml:id="zone-p10-l1"/>
+      <zone type="本文" n="2" ulx="5761" uly="669" lrx="5978" lry="3064" xml:id="zone-p10-l2"/>
+      <zone type="本文" n="3" ulx="5568" uly="663" lrx="5773" lry="2515" xml:id="zone-p10-l3"/>
+      <zone type="本文" n="4" ulx="5375" uly="663" lrx="5574" lry="3070" xml:id="zone-p10-l4"/>
+      <zone type="本文" n="5" ulx="5170" uly="663" lrx="5363" lry="3088" xml:id="zone-p10-l5"/>
+      <zone type="本文" n="6" ulx="4977" uly="681" lrx="5170" lry="3094" xml:id="zone-p10-l6"/>
+      <zone type="本文" n="7" ulx="4754" uly="687" lrx="4965" lry="3088" xml:id="zone-p10-l7"/>
+      <zone type="本文" n="8" ulx="4555" uly="693" lrx="4754" lry="3082" xml:id="zone-p10-l8"/>
+      <zone type="本文" n="9" ulx="4344" uly="705" lrx="4555" lry="3076" xml:id="zone-p10-l9"/>
+      <zone type="本文" n="10" ulx="4132" uly="711" lrx="4331" lry="3076" xml:id="zone-p10-l10"/>
+      <zone type="本文" n="11" ulx="3933" uly="705" lrx="4132" lry="3076" xml:id="zone-p10-l11"/>
+      <zone type="本文" n="12" ulx="2980" uly="687" lrx="3185" lry="3040" xml:id="zone-p10-l12"/>
+      <zone type="本文" n="13" ulx="2775" uly="669" lrx="2986" lry="3058" xml:id="zone-p10-l13"/>
+      <zone type="本文" n="14" ulx="2582" uly="669" lrx="2787" lry="3064" xml:id="zone-p10-l14"/>
+      <zone type="本文" n="15" ulx="2383" uly="675" lrx="2588" lry="3064" xml:id="zone-p10-l15"/>
+      <zone type="本文" n="16" ulx="2184" uly="675" lrx="2395" lry="3064" xml:id="zone-p10-l16"/>
+      <zone type="本文" n="17" ulx="1972" uly="675" lrx="2165" lry="3076" xml:id="zone-p10-l17"/>
+      <zone type="本文" n="18" ulx="1749" uly="663" lrx="1954" lry="3070" xml:id="zone-p10-l18"/>
+      <zone type="本文" n="19" ulx="1538" uly="663" lrx="1755" lry="3070" xml:id="zone-p10-l19"/>
+      <zone type="本文" n="20" ulx="1339" uly="669" lrx="1550" lry="3070" xml:id="zone-p10-l20"/>
+      <zone type="本文" n="21" ulx="1146" uly="663" lrx="1345" lry="3058" xml:id="zone-p10-l21"/>
+      <zone type="本文" n="22" ulx="935" uly="663" lrx="1152" lry="3052" xml:id="zone-p10-l22"/>
+    </surface>
+    <surface xml:id="surface-11" n="11" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/11" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>11</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00010.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00010.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5954" uly="651" lrx="6165" lry="3088" xml:id="zone-p11-l1"/>
+      <zone type="本文" n="2" ulx="5779" uly="663" lrx="5972" lry="3082" xml:id="zone-p11-l2"/>
+      <zone type="本文" n="3" ulx="5574" uly="645" lrx="5779" lry="3106" xml:id="zone-p11-l3"/>
+      <zone type="本文" n="4" ulx="5399" uly="693" lrx="5543" lry="1495" xml:id="zone-p11-l4"/>
+      <zone type="本文" n="5" ulx="5164" uly="832" lrx="5375" lry="3052" xml:id="zone-p11-l5"/>
+      <zone type="本文" n="6" ulx="4947" uly="705" lrx="5146" lry="3094" xml:id="zone-p11-l6"/>
+      <zone type="本文" n="7" ulx="4742" uly="699" lrx="4959" lry="3100" xml:id="zone-p11-l7"/>
+      <zone type="本文" n="8" ulx="4537" uly="699" lrx="4742" lry="3094" xml:id="zone-p11-l8"/>
+      <zone type="本文" n="9" ulx="4337" uly="687" lrx="4548" lry="3100" xml:id="zone-p11-l9"/>
+      <zone type="本文" n="10" ulx="4150" uly="693" lrx="4349" lry="3100" xml:id="zone-p11-l10"/>
+      <zone type="本文" n="11" ulx="3951" uly="699" lrx="4150" lry="3100" xml:id="zone-p11-l11"/>
+      <zone type="本文" n="12" ulx="3010" uly="693" lrx="3215" lry="3088" xml:id="zone-p11-l12"/>
+      <zone type="本文" n="13" ulx="2823" uly="693" lrx="3028" lry="3088" xml:id="zone-p11-l13"/>
+      <zone type="本文" n="14" ulx="2618" uly="693" lrx="2805" lry="3088" xml:id="zone-p11-l14"/>
+      <zone type="本文" n="15" ulx="2413" uly="699" lrx="2606" lry="3088" xml:id="zone-p11-l15"/>
+      <zone type="本文" n="16" ulx="2208" uly="699" lrx="2401" lry="3082" xml:id="zone-p11-l16"/>
+      <zone type="本文" n="17" ulx="2003" uly="699" lrx="2196" lry="3082" xml:id="zone-p11-l17"/>
+      <zone type="本文" n="18" ulx="1810" uly="699" lrx="1997" lry="3088" xml:id="zone-p11-l18"/>
+      <zone type="本文" n="19" ulx="1592" uly="693" lrx="1791" lry="3088" xml:id="zone-p11-l19"/>
+      <zone type="本文" n="20" ulx="1375" uly="693" lrx="1580" lry="3094" xml:id="zone-p11-l20"/>
+      <zone type="本文" n="21" ulx="1182" uly="699" lrx="1393" lry="3082" xml:id="zone-p11-l21"/>
+      <zone type="本文" n="22" ulx="971" uly="717" lrx="1182" lry="3070" xml:id="zone-p11-l22"/>
+    </surface>
+    <surface xml:id="surface-12" n="12" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/12" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>12</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00011.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00011.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5979" uly="675" lrx="6178" lry="3052" xml:id="zone-p12-l1"/>
+      <zone type="本文" n="2" ulx="5779" uly="705" lrx="6002" lry="3051" xml:id="zone-p12-l2"/>
+      <zone type="本文" n="3" ulx="5574" uly="693" lrx="5791" lry="3064" xml:id="zone-p12-l3"/>
+      <zone type="本文" n="4" ulx="5369" uly="675" lrx="5580" lry="3082" xml:id="zone-p12-l4"/>
+      <zone type="本文" n="5" ulx="5158" uly="699" lrx="5363" lry="3045" xml:id="zone-p12-l5"/>
+      <zone type="本文" n="6" ulx="4947" uly="699" lrx="5146" lry="3045" xml:id="zone-p12-l6"/>
+      <zone type="本文" n="7" ulx="4730" uly="693" lrx="4953" lry="3064" xml:id="zone-p12-l7"/>
+      <zone type="本文" n="8" ulx="4531" uly="681" lrx="4730" lry="3070" xml:id="zone-p12-l8"/>
+      <zone type="本文" n="9" ulx="4344" uly="675" lrx="4531" lry="3070" xml:id="zone-p12-l9"/>
+      <zone type="本文" n="10" ulx="4126" uly="675" lrx="4325" lry="3046" xml:id="zone-p12-l10"/>
+      <zone type="本文" n="11" ulx="3927" uly="687" lrx="4126" lry="3052" xml:id="zone-p12-l11"/>
+      <zone type="本文" n="12" ulx="2998" uly="675" lrx="3191" lry="3064" xml:id="zone-p12-l12"/>
+      <zone type="本文" n="13" ulx="2793" uly="675" lrx="2980" lry="3058" xml:id="zone-p12-l13"/>
+      <zone type="本文" n="14" ulx="2588" uly="675" lrx="2781" lry="3070" xml:id="zone-p12-l14"/>
+      <zone type="本文" n="15" ulx="2371" uly="669" lrx="2564" lry="3070" xml:id="zone-p12-l15"/>
+      <zone type="本文" n="16" ulx="2159" uly="669" lrx="2352" lry="3070" xml:id="zone-p12-l16"/>
+      <zone type="本文" n="17" ulx="1966" uly="669" lrx="2147" lry="3082" xml:id="zone-p12-l17"/>
+      <zone type="本文" n="18" ulx="1761" uly="675" lrx="1954" lry="3082" xml:id="zone-p12-l18"/>
+      <zone type="本文" n="19" ulx="1550" uly="681" lrx="1749" lry="3070" xml:id="zone-p12-l19"/>
+      <zone type="本文" n="20" ulx="1333" uly="681" lrx="1532" lry="3076" xml:id="zone-p12-l20"/>
+      <zone type="本文" n="21" ulx="1134" uly="681" lrx="1333" lry="3088" xml:id="zone-p12-l21"/>
+      <zone type="本文" n="22" ulx="941" uly="687" lrx="1146" lry="3088" xml:id="zone-p12-l22"/>
+    </surface>
+    <surface xml:id="surface-13" n="13" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/13" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>13</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00012.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00012.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="5966" uly="681" lrx="6171" lry="3082" xml:id="zone-p13-l1"/>
+      <zone type="本文" n="2" ulx="5785" uly="681" lrx="5984" lry="3082" xml:id="zone-p13-l2"/>
+      <zone type="本文" n="3" ulx="5568" uly="687" lrx="5773" lry="3082" xml:id="zone-p13-l3"/>
+      <zone type="本文" n="4" ulx="5363" uly="687" lrx="5562" lry="3070" xml:id="zone-p13-l4"/>
+      <zone type="本文" n="5" ulx="5152" uly="681" lrx="5357" lry="3082" xml:id="zone-p13-l5"/>
+      <zone type="本文" n="6" ulx="4947" uly="687" lrx="5152" lry="3088" xml:id="zone-p13-l6"/>
+      <zone type="本文" n="7" ulx="4724" uly="693" lrx="4947" lry="3076" xml:id="zone-p13-l7"/>
+      <zone type="本文" n="8" ulx="4518" uly="699" lrx="4729" lry="3070" xml:id="zone-p13-l8"/>
+      <zone type="本文" n="9" ulx="4331" uly="699" lrx="4518" lry="3070" xml:id="zone-p13-l9"/>
+      <zone type="本文" n="10" ulx="4114" uly="699" lrx="4337" lry="3070" xml:id="zone-p13-l10"/>
+      <zone type="本文" n="11" ulx="3933" uly="705" lrx="4095" lry="2533" xml:id="zone-p13-l11"/>
+      <zone type="本文" n="12" ulx="3016" uly="844" lrx="3197" lry="3046" xml:id="zone-p13-l12"/>
+      <zone type="本文" n="13" ulx="2823" uly="645" lrx="3010" lry="3082" xml:id="zone-p13-l13"/>
+      <zone type="本文" n="14" ulx="2642" uly="663" lrx="2816" lry="3016" xml:id="zone-p13-l14"/>
+      <zone type="本文" n="15" ulx="2455" uly="669" lrx="2611" lry="1893" xml:id="zone-p13-l15"/>
+      <zone type="本文" n="16" ulx="2455" uly="778" lrx="2605" lry="2775" xml:id="zone-p13-l16"/>
+      <zone type="本文" n="17" ulx="2431" uly="2497" lrx="2545" lry="2816" xml:id="zone-p13-l17"/>
+      <zone type="本文" n="18" ulx="2244" uly="808" lrx="2431" lry="3046" xml:id="zone-p13-l18"/>
+      <zone type="本文" n="19" ulx="2021" uly="651" lrx="2214" lry="3076" xml:id="zone-p13-l19"/>
+      <zone type="本文" n="20" ulx="1803" uly="657" lrx="1996" lry="3100" xml:id="zone-p13-l20"/>
+      <zone type="本文" n="21" ulx="1592" uly="657" lrx="1779" lry="3100" xml:id="zone-p13-l21"/>
+      <zone type="本文" n="22" ulx="1387" uly="663" lrx="1586" lry="3106" xml:id="zone-p13-l22"/>
+      <zone type="本文" n="23" ulx="1182" uly="657" lrx="1399" lry="3088" xml:id="zone-p13-l23"/>
+      <zone type="本文" n="24" ulx="965" uly="663" lrx="1170" lry="3088" xml:id="zone-p13-l24"/>
+    </surface>
+    <surface xml:id="surface-14" n="14" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/14" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>14</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00013.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00013.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6069" uly="669" lrx="6262" lry="3028" xml:id="zone-p14-l1"/>
+      <zone type="本文" n="2" ulx="5882" uly="669" lrx="6075" lry="3022" xml:id="zone-p14-l2"/>
+      <zone type="本文" n="3" ulx="5677" uly="675" lrx="5894" lry="3021" xml:id="zone-p14-l3"/>
+      <zone type="本文" n="4" ulx="5478" uly="675" lrx="5671" lry="3021" xml:id="zone-p14-l4"/>
+      <zone type="本文" n="5" ulx="5267" uly="675" lrx="5460" lry="3028" xml:id="zone-p14-l5"/>
+      <zone type="本文" n="6" ulx="5037" uly="669" lrx="5248" lry="3028" xml:id="zone-p14-l6"/>
+      <zone type="本文" n="7" ulx="4820" uly="675" lrx="5025" lry="3034" xml:id="zone-p14-l7"/>
+      <zone type="本文" n="8" ulx="4627" uly="669" lrx="4832" lry="3040" xml:id="zone-p14-l8"/>
+      <zone type="本文" n="9" ulx="4416" uly="675" lrx="4621" lry="3034" xml:id="zone-p14-l9"/>
+      <zone type="本文" n="10" ulx="4229" uly="663" lrx="4434" lry="3058" xml:id="zone-p14-l10"/>
+      <zone type="本文" n="11" ulx="4036" uly="657" lrx="4235" lry="3058" xml:id="zone-p14-l11"/>
+      <zone type="本文" n="12" ulx="2950" uly="657" lrx="3149" lry="3058" xml:id="zone-p14-l12"/>
+      <zone type="本文" n="13" ulx="2757" uly="651" lrx="2944" lry="3064" xml:id="zone-p14-l13"/>
+      <zone type="本文" n="14" ulx="2509" uly="651" lrx="2744" lry="3100" xml:id="zone-p14-l14"/>
+      <zone type="本文" n="15" ulx="2310" uly="657" lrx="2533" lry="3082" xml:id="zone-p14-l15"/>
+      <zone type="本文" n="16" ulx="2099" uly="651" lrx="2322" lry="3070" xml:id="zone-p14-l16"/>
+      <zone type="本文" n="17" ulx="1882" uly="651" lrx="2099" lry="3070" xml:id="zone-p14-l17"/>
+      <zone type="本文" n="18" ulx="1671" uly="651" lrx="1894" lry="3070" xml:id="zone-p14-l18"/>
+      <zone type="本文" n="19" ulx="1472" uly="651" lrx="1701" lry="3076" xml:id="zone-p14-l19"/>
+      <zone type="本文" n="20" ulx="1260" uly="663" lrx="1483" lry="3070" xml:id="zone-p14-l20"/>
+      <zone type="本文" n="21" ulx="1073" uly="645" lrx="1284" lry="3076" xml:id="zone-p14-l21"/>
+      <zone type="本文" n="22" ulx="862" uly="645" lrx="1079" lry="3070" xml:id="zone-p14-l22"/>
+    </surface>
+    <surface xml:id="surface-15" n="15" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/15" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>15</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00014.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00014.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6081" uly="681" lrx="6346" lry="3094" xml:id="zone-p15-l1"/>
+      <zone type="本文" n="2" ulx="5882" uly="687" lrx="6099" lry="3076" xml:id="zone-p15-l2"/>
+      <zone type="本文" n="3" ulx="5689" uly="681" lrx="5900" lry="3088" xml:id="zone-p15-l3"/>
+      <zone type="本文" n="4" ulx="5484" uly="687" lrx="5695" lry="3094" xml:id="zone-p15-l4"/>
+      <zone type="本文" n="5" ulx="5285" uly="687" lrx="5490" lry="3094" xml:id="zone-p15-l5"/>
+      <zone type="本文" n="6" ulx="5092" uly="711" lrx="5285" lry="3057" xml:id="zone-p15-l6"/>
+      <zone type="本文" n="7" ulx="4868" uly="693" lrx="5097" lry="3076" xml:id="zone-p15-l7"/>
+      <zone type="本文" n="8" ulx="4651" uly="687" lrx="4868" lry="3076" xml:id="zone-p15-l8"/>
+      <zone type="本文" n="9" ulx="4458" uly="687" lrx="4645" lry="3070" xml:id="zone-p15-l9"/>
+      <zone type="本文" n="10" ulx="4247" uly="681" lrx="4446" lry="3070" xml:id="zone-p15-l10"/>
+      <zone type="本文" n="11" ulx="4066" uly="681" lrx="4253" lry="3076" xml:id="zone-p15-l11"/>
+      <zone type="本文" n="12" ulx="2926" uly="724" lrx="3119" lry="3083" xml:id="zone-p15-l12"/>
+      <zone type="本文" n="13" ulx="2702" uly="711" lrx="2931" lry="3082" xml:id="zone-p15-l13"/>
+      <zone type="本文" n="14" ulx="2509" uly="784" lrx="2714" lry="3052" xml:id="zone-p15-l14"/>
+      <zone type="本文" n="15" ulx="2274" uly="669" lrx="2509" lry="3082" xml:id="zone-p15-l15"/>
+      <zone type="本文" n="16" ulx="2093" uly="687" lrx="2310" lry="3076" xml:id="zone-p15-l16"/>
+      <zone type="本文" n="17" ulx="1882" uly="669" lrx="2087" lry="3088" xml:id="zone-p15-l17"/>
+      <zone type="本文" n="19" ulx="1665" uly="657" lrx="1882" lry="3094" xml:id="zone-p15-l19"/>
+      <zone type="本文" n="20" ulx="1472" uly="657" lrx="1701" lry="3088" xml:id="zone-p15-l20"/>
+      <zone type="本文" n="21" ulx="1254" uly="645" lrx="1465" lry="3082" xml:id="zone-p15-l21"/>
+      <zone type="本文" n="22" ulx="1043" uly="645" lrx="1260" lry="3082" xml:id="zone-p15-l22"/>
+      <zone type="本文" n="23" ulx="844" uly="669" lrx="1055" lry="3082" xml:id="zone-p15-l23"/>
+    </surface>
+    <surface xml:id="surface-16" n="16" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/16" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>16</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00015.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00015.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6081" uly="687" lrx="6292" lry="3046" xml:id="zone-p16-l1"/>
+      <zone type="本文" n="2" ulx="5894" uly="687" lrx="6087" lry="3058" xml:id="zone-p16-l2"/>
+      <zone type="本文" n="3" ulx="5695" uly="693" lrx="5888" lry="3064" xml:id="zone-p16-l3"/>
+      <zone type="本文" n="4" ulx="5466" uly="687" lrx="5659" lry="3064" xml:id="zone-p16-l4"/>
+      <zone type="本文" n="5" ulx="5267" uly="687" lrx="5460" lry="3070" xml:id="zone-p16-l5"/>
+      <zone type="本文" n="6" ulx="5061" uly="693" lrx="5260" lry="3064" xml:id="zone-p16-l6"/>
+      <zone type="本文" n="7" ulx="4856" uly="687" lrx="5055" lry="3076" xml:id="zone-p16-l7"/>
+      <zone type="本文" n="8" ulx="4639" uly="687" lrx="4850" lry="3070" xml:id="zone-p16-l8"/>
+      <zone type="本文" n="9" ulx="4434" uly="693" lrx="4669" lry="3064" xml:id="zone-p16-l9"/>
+      <zone type="本文" n="10" ulx="4229" uly="693" lrx="4428" lry="3064" xml:id="zone-p16-l10"/>
+      <zone type="本文" n="11" ulx="4030" uly="699" lrx="4223" lry="3052" xml:id="zone-p16-l11"/>
+      <zone type="本文" n="12" ulx="2920" uly="681" lrx="3131" lry="3082" xml:id="zone-p16-l12"/>
+      <zone type="本文" n="13" ulx="2715" uly="675" lrx="2920" lry="3088" xml:id="zone-p16-l13"/>
+      <zone type="本文" n="14" ulx="2509" uly="675" lrx="2720" lry="3088" xml:id="zone-p16-l14"/>
+      <zone type="本文" n="15" ulx="2304" uly="675" lrx="2509" lry="3094" xml:id="zone-p16-l15"/>
+      <zone type="本文" n="16" ulx="2105" uly="675" lrx="2310" lry="3088" xml:id="zone-p16-l16"/>
+      <zone type="本文" n="17" ulx="1900" uly="675" lrx="2105" lry="3088" xml:id="zone-p16-l17"/>
+      <zone type="本文" n="18" ulx="1683" uly="669" lrx="1888" lry="3082" xml:id="zone-p16-l18"/>
+      <zone type="本文" n="19" ulx="1478" uly="669" lrx="1677" lry="3076" xml:id="zone-p16-l19"/>
+      <zone type="本文" n="20" ulx="1273" uly="669" lrx="1472" lry="3082" xml:id="zone-p16-l20"/>
+      <zone type="本文" n="21" ulx="1073" uly="675" lrx="1266" lry="3082" xml:id="zone-p16-l21"/>
+      <zone type="本文" n="22" ulx="850" uly="681" lrx="1103" lry="3076" xml:id="zone-p16-l22"/>
+    </surface>
+    <surface xml:id="surface-17" n="17" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/17" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>17</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00016.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00016.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6021" uly="651" lrx="6226" lry="3046" xml:id="zone-p17-l1"/>
+      <zone type="本文" n="2" ulx="5828" uly="657" lrx="6021" lry="3052" xml:id="zone-p17-l2"/>
+      <zone type="本文" n="3" ulx="5623" uly="651" lrx="5822" lry="3058" xml:id="zone-p17-l3"/>
+      <zone type="本文" n="4" ulx="5423" uly="663" lrx="5616" lry="3070" xml:id="zone-p17-l4"/>
+      <zone type="本文" n="5" ulx="5224" uly="669" lrx="5411" lry="3070" xml:id="zone-p17-l5"/>
+      <zone type="本文" n="6" ulx="5037" uly="687" lrx="5218" lry="3064" xml:id="zone-p17-l6"/>
+      <zone type="本文" n="7" ulx="4808" uly="687" lrx="4995" lry="3064" xml:id="zone-p17-l7"/>
+      <zone type="本文" n="8" ulx="4609" uly="687" lrx="4796" lry="3064" xml:id="zone-p17-l8"/>
+      <zone type="本文" n="9" ulx="4398" uly="681" lrx="4591" lry="3076" xml:id="zone-p17-l9"/>
+      <zone type="本文" n="10" ulx="4193" uly="687" lrx="4380" lry="3070" xml:id="zone-p17-l10"/>
+      <zone type="本文" n="12" ulx="4000" uly="687" lrx="4174" lry="3064" xml:id="zone-p17-l12"/>
+      <zone type="本文" n="13" ulx="3227" uly="808" lrx="3486" lry="1055" xml:id="zone-p17-l13"/>
+      <zone type="本文" n="14" ulx="2889" uly="669" lrx="3088" lry="3040" xml:id="zone-p17-l14"/>
+      <zone type="本文" n="15" ulx="2696" uly="669" lrx="2883" lry="3052" xml:id="zone-p17-l15"/>
+      <zone type="本文" n="16" ulx="2479" uly="669" lrx="2696" lry="3076" xml:id="zone-p17-l16"/>
+      <zone type="本文" n="17" ulx="2268" uly="675" lrx="2473" lry="3070" xml:id="zone-p17-l17"/>
+      <zone type="本文" n="18" ulx="2075" uly="675" lrx="2268" lry="3070" xml:id="zone-p17-l18"/>
+      <zone type="本文" n="19" ulx="1858" uly="681" lrx="2063" lry="3064" xml:id="zone-p17-l19"/>
+      <zone type="本文" n="20" ulx="1641" uly="687" lrx="1846" lry="3058" xml:id="zone-p17-l20"/>
+      <zone type="本文" n="21" ulx="1417" uly="681" lrx="1646" lry="3070" xml:id="zone-p17-l21"/>
+      <zone type="本文" n="22" ulx="1218" uly="639" lrx="1483" lry="3094" xml:id="zone-p17-l22"/>
+      <zone type="本文" n="23" ulx="1043" uly="663" lrx="1380" lry="3076" xml:id="zone-p17-l23"/>
+      <zone type="本文" n="24" ulx="1019" uly="633" lrx="1266" lry="3118" xml:id="zone-p17-l24"/>
+      <zone type="本文" n="25" ulx="826" uly="633" lrx="1049" lry="3118" xml:id="zone-p17-l25"/>
+    </surface>
+    <surface xml:id="surface-18" n="18" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/18" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>18</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00017.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00017.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6063" uly="663" lrx="6280" lry="3070" xml:id="zone-p18-l1"/>
+      <zone type="本文" n="2" ulx="5864" uly="657" lrx="6075" lry="3058" xml:id="zone-p18-l2"/>
+      <zone type="本文" n="3" ulx="5665" uly="657" lrx="5876" lry="3058" xml:id="zone-p18-l3"/>
+      <zone type="本文" n="4" ulx="5466" uly="669" lrx="5701" lry="3046" xml:id="zone-p18-l4"/>
+      <zone type="本文" n="5" ulx="5273" uly="669" lrx="5466" lry="3052" xml:id="zone-p18-l5"/>
+      <zone type="本文" n="6" ulx="5068" uly="663" lrx="5273" lry="3058" xml:id="zone-p18-l6"/>
+      <zone type="本文" n="7" ulx="4862" uly="669" lrx="5055" lry="3058" xml:id="zone-p18-l7"/>
+      <zone type="本文" n="8" ulx="4651" uly="657" lrx="4856" lry="3058" xml:id="zone-p18-l8"/>
+      <zone type="本文" n="9" ulx="4446" uly="663" lrx="4639" lry="3052" xml:id="zone-p18-l9"/>
+      <zone type="本文" n="10" ulx="4247" uly="675" lrx="4440" lry="3034" xml:id="zone-p18-l10"/>
+      <zone type="本文" n="11" ulx="4042" uly="681" lrx="4229" lry="3021" xml:id="zone-p18-l11"/>
+      <zone type="本文" n="12" ulx="2950" uly="651" lrx="3149" lry="3052" xml:id="zone-p18-l12"/>
+      <zone type="本文" n="13" ulx="2733" uly="651" lrx="2938" lry="3052" xml:id="zone-p18-l13"/>
+      <zone type="本文" n="14" ulx="2521" uly="645" lrx="2732" lry="3040" xml:id="zone-p18-l14"/>
+      <zone type="本文" n="15" ulx="2322" uly="651" lrx="2533" lry="3028" xml:id="zone-p18-l15"/>
+      <zone type="本文" n="16" ulx="2117" uly="651" lrx="2322" lry="3028" xml:id="zone-p18-l16"/>
+      <zone type="本文" n="17" ulx="1906" uly="657" lrx="2123" lry="3058" xml:id="zone-p18-l17"/>
+      <zone type="本文" n="18" ulx="1695" uly="669" lrx="1906" lry="3058" xml:id="zone-p18-l18"/>
+      <zone type="本文" n="20" ulx="1478" uly="669" lrx="1689" lry="3070" xml:id="zone-p18-l20"/>
+      <zone type="本文" n="21" ulx="1273" uly="663" lrx="1484" lry="3058" xml:id="zone-p18-l21"/>
+      <zone type="本文" n="22" ulx="1061" uly="657" lrx="1284" lry="3058" xml:id="zone-p18-l22"/>
+      <zone type="本文" n="23" ulx="868" uly="663" lrx="1073" lry="3070" xml:id="zone-p18-l23"/>
+    </surface>
+    <surface xml:id="surface-19" n="19" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/19" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>19</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00018.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00018.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6045" uly="687" lrx="6262" lry="3046" xml:id="zone-p19-l1"/>
+      <zone type="本文" n="2" ulx="5846" uly="693" lrx="6063" lry="3052" xml:id="zone-p19-l2"/>
+      <zone type="本文" n="3" ulx="5641" uly="693" lrx="5876" lry="3076" xml:id="zone-p19-l3"/>
+      <zone type="本文" n="4" ulx="5430" uly="796" lrx="5653" lry="3034" xml:id="zone-p19-l4"/>
+      <zone type="本文" n="6" ulx="5236" uly="681" lrx="5459" lry="3094" xml:id="zone-p19-l6"/>
+      <zone type="本文" n="7" ulx="5025" uly="675" lrx="5242" lry="3052" xml:id="zone-p19-l7"/>
+      <zone type="本文" n="8" ulx="4814" uly="687" lrx="5013" lry="3052" xml:id="zone-p19-l8"/>
+      <zone type="本文" n="9" ulx="4609" uly="687" lrx="4820" lry="3046" xml:id="zone-p19-l9"/>
+      <zone type="本文" n="10" ulx="4392" uly="693" lrx="4615" lry="3046" xml:id="zone-p19-l10"/>
+      <zone type="本文" n="11" ulx="4199" uly="711" lrx="4398" lry="3045" xml:id="zone-p19-l11"/>
+      <zone type="本文" n="12" ulx="4000" uly="681" lrx="4199" lry="3040" xml:id="zone-p19-l12"/>
+      <zone type="本文" n="13" ulx="2920" uly="675" lrx="3143" lry="3082" xml:id="zone-p19-l13"/>
+      <zone type="本文" n="14" ulx="2708" uly="675" lrx="2919" lry="3082" xml:id="zone-p19-l14"/>
+      <zone type="本文" n="15" ulx="2503" uly="663" lrx="2714" lry="3088" xml:id="zone-p19-l15"/>
+      <zone type="本文" n="16" ulx="2310" uly="657" lrx="2521" lry="3076" xml:id="zone-p19-l16"/>
+      <zone type="本文" n="17" ulx="2123" uly="657" lrx="2346" lry="3076" xml:id="zone-p19-l17"/>
+      <zone type="本文" n="18" ulx="1918" uly="645" lrx="2123" lry="3076" xml:id="zone-p19-l18"/>
+      <zone type="本文" n="19" ulx="1701" uly="645" lrx="1906" lry="3070" xml:id="zone-p19-l19"/>
+      <zone type="本文" n="20" ulx="1496" uly="669" lrx="1707" lry="3070" xml:id="zone-p19-l20"/>
+      <zone type="本文" n="21" ulx="1291" uly="687" lrx="1496" lry="3064" xml:id="zone-p19-l21"/>
+      <zone type="本文" n="22" ulx="1086" uly="657" lrx="1291" lry="3058" xml:id="zone-p19-l22"/>
+      <zone type="本文" n="23" ulx="886" uly="633" lrx="1103" lry="3064" xml:id="zone-p19-l23"/>
+    </surface>
+    <surface xml:id="surface-20" n="20" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/20" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>20</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00019.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00019.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6111" uly="693" lrx="6310" lry="3076" xml:id="zone-p20-l1"/>
+      <zone type="本文" n="2" ulx="5936" uly="693" lrx="6117" lry="3076" xml:id="zone-p20-l2"/>
+      <zone type="本文" n="3" ulx="5731" uly="699" lrx="5924" lry="3076" xml:id="zone-p20-l3"/>
+      <zone type="本文" n="4" ulx="5526" uly="699" lrx="5719" lry="3076" xml:id="zone-p20-l4"/>
+      <zone type="本文" n="5" ulx="5309" uly="705" lrx="5496" lry="3070" xml:id="zone-p20-l5"/>
+      <zone type="本文" n="6" ulx="5092" uly="699" lrx="5285" lry="3064" xml:id="zone-p20-l6"/>
+      <zone type="本文" n="7" ulx="4887" uly="699" lrx="5086" lry="3070" xml:id="zone-p20-l7"/>
+      <zone type="本文" n="8" ulx="4681" uly="669" lrx="4898" lry="3082" xml:id="zone-p20-l8"/>
+      <zone type="本文" n="9" ulx="4482" uly="705" lrx="4699" lry="3039" xml:id="zone-p20-l9"/>
+      <zone type="本文" n="10" ulx="4283" uly="705" lrx="4464" lry="3039" xml:id="zone-p20-l10"/>
+      <zone type="本文" n="11" ulx="4066" uly="699" lrx="4277" lry="3052" xml:id="zone-p20-l11"/>
+      <zone type="本文" n="12" ulx="2950" uly="675" lrx="3137" lry="3082" xml:id="zone-p20-l12"/>
+      <zone type="本文" n="13" ulx="2769" uly="675" lrx="2950" lry="3076" xml:id="zone-p20-l13"/>
+      <zone type="本文" n="14" ulx="2552" uly="681" lrx="2745" lry="3064" xml:id="zone-p20-l14"/>
+      <zone type="本文" n="15" ulx="2346" uly="681" lrx="2539" lry="3082" xml:id="zone-p20-l15"/>
+      <zone type="本文" n="16" ulx="2147" uly="687" lrx="2334" lry="3094" xml:id="zone-p20-l16"/>
+      <zone type="本文" n="17" ulx="1942" uly="687" lrx="2129" lry="3088" xml:id="zone-p20-l17"/>
+      <zone type="本文" n="18" ulx="1749" uly="687" lrx="1936" lry="3088" xml:id="zone-p20-l18"/>
+      <zone type="本文" n="19" ulx="1526" uly="681" lrx="1737" lry="3076" xml:id="zone-p20-l19"/>
+      <zone type="本文" n="20" ulx="1309" uly="669" lrx="1496" lry="3100" xml:id="zone-p20-l20"/>
+      <zone type="本文" n="21" ulx="1098" uly="669" lrx="1291" lry="3106" xml:id="zone-p20-l21"/>
+      <zone type="本文" n="22" ulx="911" uly="675" lrx="1104" lry="3106" xml:id="zone-p20-l22"/>
+    </surface>
+    <surface xml:id="surface-21" n="21" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/21" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>21</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00020.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00020.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6135" uly="675" lrx="6328" lry="3028" xml:id="zone-p21-l1"/>
+      <zone type="本文" n="2" ulx="5948" uly="675" lrx="6122" lry="3034" xml:id="zone-p21-l2"/>
+      <zone type="本文" n="3" ulx="5731" uly="681" lrx="5912" lry="3021" xml:id="zone-p21-l3"/>
+      <zone type="本文" n="4" ulx="5520" uly="693" lrx="5694" lry="3021" xml:id="zone-p21-l4"/>
+      <zone type="本文" n="5" ulx="5303" uly="693" lrx="5477" lry="3039" xml:id="zone-p21-l5"/>
+      <zone type="本文" n="6" ulx="5098" uly="687" lrx="5272" lry="3046" xml:id="zone-p21-l6"/>
+      <zone type="本文" n="7" ulx="4899" uly="687" lrx="5067" lry="3040" xml:id="zone-p21-l7"/>
+      <zone type="本文" n="8" ulx="4706" uly="687" lrx="4874" lry="3033" xml:id="zone-p21-l8"/>
+      <zone type="本文" n="9" ulx="4506" uly="687" lrx="4680" lry="3033" xml:id="zone-p21-l9"/>
+      <zone type="本文" n="10" ulx="4301" uly="687" lrx="4475" lry="3040" xml:id="zone-p21-l10"/>
+      <zone type="本文" n="11" ulx="4096" uly="681" lrx="4270" lry="3009" xml:id="zone-p21-l11"/>
+      <zone type="本文" n="12" ulx="2932" uly="705" lrx="3125" lry="3058" xml:id="zone-p21-l12"/>
+      <zone type="本文" n="13" ulx="2721" uly="705" lrx="2920" lry="3100" xml:id="zone-p21-l13"/>
+      <zone type="本文" n="14" ulx="2527" uly="705" lrx="2720" lry="3106" xml:id="zone-p21-l14"/>
+      <zone type="本文" n="15" ulx="2310" uly="705" lrx="2515" lry="3118" xml:id="zone-p21-l15"/>
+      <zone type="本文" n="16" ulx="2117" uly="717" lrx="2304" lry="3112" xml:id="zone-p21-l16"/>
+      <zone type="本文" n="17" ulx="1912" uly="717" lrx="2105" lry="3118" xml:id="zone-p21-l17"/>
+      <zone type="本文" n="18" ulx="1689" uly="705" lrx="1888" lry="3124" xml:id="zone-p21-l18"/>
+      <zone type="本文" n="19" ulx="1478" uly="711" lrx="1677" lry="3124" xml:id="zone-p21-l19"/>
+      <zone type="本文" n="20" ulx="1291" uly="711" lrx="1478" lry="3118" xml:id="zone-p21-l20"/>
+      <zone type="本文" n="21" ulx="1092" uly="705" lrx="1273" lry="3106" xml:id="zone-p21-l21"/>
+      <zone type="本文" n="23" ulx="892" uly="705" lrx="1085" lry="3124" xml:id="zone-p21-l23"/>
+    </surface>
+    <surface xml:id="surface-22" n="22" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/22" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>22</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00021.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00021.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6093" uly="717" lrx="6298" lry="3094" xml:id="zone-p22-l1"/>
+      <zone type="本文" n="2" ulx="5888" uly="717" lrx="6117" lry="3094" xml:id="zone-p22-l2"/>
+      <zone type="本文" n="3" ulx="5695" uly="724" lrx="5900" lry="3083" xml:id="zone-p22-l3"/>
+      <zone type="本文" n="4" ulx="5484" uly="736" lrx="5695" lry="3089" xml:id="zone-p22-l4"/>
+      <zone type="本文" n="5" ulx="5297" uly="736" lrx="5484" lry="3070" xml:id="zone-p22-l5"/>
+      <zone type="本文" n="6" ulx="5080" uly="730" lrx="5291" lry="3070" xml:id="zone-p22-l6"/>
+      <zone type="本文" n="7" ulx="4880" uly="730" lrx="5073" lry="3070" xml:id="zone-p22-l7"/>
+      <zone type="本文" n="8" ulx="4681" uly="717" lrx="4880" lry="3076" xml:id="zone-p22-l8"/>
+      <zone type="本文" n="9" ulx="4476" uly="717" lrx="4663" lry="3076" xml:id="zone-p22-l9"/>
+      <zone type="本文" n="10" ulx="4301" uly="724" lrx="4475" lry="3064" xml:id="zone-p22-l10"/>
+      <zone type="本文" n="11" ulx="4078" uly="724" lrx="4283" lry="3077" xml:id="zone-p22-l11"/>
+      <zone type="本文" n="12" ulx="2956" uly="675" lrx="3143" lry="3064" xml:id="zone-p22-l12"/>
+      <zone type="本文" n="13" ulx="2763" uly="663" lrx="2950" lry="3070" xml:id="zone-p22-l13"/>
+      <zone type="本文" n="14" ulx="2546" uly="669" lrx="2739" lry="3058" xml:id="zone-p22-l14"/>
+      <zone type="本文" n="15" ulx="2334" uly="669" lrx="2533" lry="3064" xml:id="zone-p22-l15"/>
+      <zone type="本文" n="16" ulx="2117" uly="681" lrx="2316" lry="3052" xml:id="zone-p22-l16"/>
+      <zone type="本文" n="17" ulx="1906" uly="675" lrx="2093" lry="3052" xml:id="zone-p22-l17"/>
+      <zone type="本文" n="18" ulx="1701" uly="669" lrx="1894" lry="3070" xml:id="zone-p22-l18"/>
+      <zone type="本文" n="19" ulx="1490" uly="675" lrx="1695" lry="3076" xml:id="zone-p22-l19"/>
+      <zone type="本文" n="20" ulx="1285" uly="675" lrx="1490" lry="3058" xml:id="zone-p22-l20"/>
+      <zone type="本文" n="21" ulx="1086" uly="669" lrx="1279" lry="3046" xml:id="zone-p22-l21"/>
+      <zone type="本文" n="22" ulx="892" uly="669" lrx="1085" lry="3040" xml:id="zone-p22-l22"/>
+    </surface>
+    <surface xml:id="surface-23" n="23" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/23" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>23</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00022.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00022.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6117" uly="687" lrx="6322" lry="3082" xml:id="zone-p23-l1"/>
+      <zone type="本文" n="2" ulx="5930" uly="687" lrx="6129" lry="3064" xml:id="zone-p23-l2"/>
+      <zone type="本文" n="3" ulx="5725" uly="693" lrx="5930" lry="3052" xml:id="zone-p23-l3"/>
+      <zone type="本文" n="4" ulx="5514" uly="699" lrx="5713" lry="3064" xml:id="zone-p23-l4"/>
+      <zone type="本文" n="5" ulx="5321" uly="705" lrx="5508" lry="3064" xml:id="zone-p23-l5"/>
+      <zone type="本文" n="6" ulx="5116" uly="705" lrx="5303" lry="3076" xml:id="zone-p23-l6"/>
+      <zone type="本文" n="7" ulx="4905" uly="705" lrx="5104" lry="3051" xml:id="zone-p23-l7"/>
+      <zone type="本文" n="8" ulx="4687" uly="699" lrx="4892" lry="3100" xml:id="zone-p23-l8"/>
+      <zone type="本文" n="9" ulx="4494" uly="705" lrx="4693" lry="3088" xml:id="zone-p23-l9"/>
+      <zone type="本文" n="10" ulx="4295" uly="705" lrx="4482" lry="3076" xml:id="zone-p23-l10"/>
+      <zone type="本文" n="11" ulx="4084" uly="705" lrx="4277" lry="3088" xml:id="zone-p23-l11"/>
+      <zone type="本文" n="12" ulx="2956" uly="693" lrx="3143" lry="3076" xml:id="zone-p23-l12"/>
+      <zone type="本文" n="13" ulx="2751" uly="705" lrx="2938" lry="3076" xml:id="zone-p23-l13"/>
+      <zone type="本文" n="14" ulx="2552" uly="669" lrx="2739" lry="3070" xml:id="zone-p23-l14"/>
+      <zone type="本文" n="15" ulx="2346" uly="669" lrx="2545" lry="3070" xml:id="zone-p23-l15"/>
+      <zone type="本文" n="16" ulx="2147" uly="663" lrx="2334" lry="3070" xml:id="zone-p23-l16"/>
+      <zone type="本文" n="17" ulx="1930" uly="657" lrx="2129" lry="3070" xml:id="zone-p23-l17"/>
+      <zone type="本文" n="18" ulx="1713" uly="657" lrx="1942" lry="3064" xml:id="zone-p23-l18"/>
+      <zone type="本文" n="19" ulx="1502" uly="651" lrx="1713" lry="3070" xml:id="zone-p23-l19"/>
+      <zone type="本文" n="20" ulx="1309" uly="657" lrx="1502" lry="3064" xml:id="zone-p23-l20"/>
+      <zone type="本文" n="21" ulx="1116" uly="651" lrx="1321" lry="3046" xml:id="zone-p23-l21"/>
+      <zone type="本文" n="23" ulx="905" uly="657" lrx="1128" lry="3046" xml:id="zone-p23-l23"/>
+    </surface>
+    <surface xml:id="surface-24" n="24" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/24" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>24</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00023.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00023.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6093" uly="699" lrx="6304" lry="3082" xml:id="zone-p24-l1"/>
+      <zone type="本文" n="2" ulx="5894" uly="699" lrx="6099" lry="3070" xml:id="zone-p24-l2"/>
+      <zone type="本文" n="3" ulx="5701" uly="711" lrx="5900" lry="3082" xml:id="zone-p24-l3"/>
+      <zone type="本文" n="4" ulx="5502" uly="717" lrx="5695" lry="3076" xml:id="zone-p24-l4"/>
+      <zone type="本文" n="5" ulx="5297" uly="724" lrx="5478" lry="3070" xml:id="zone-p24-l5"/>
+      <zone type="本文" n="6" ulx="5086" uly="717" lrx="5291" lry="3082" xml:id="zone-p24-l6"/>
+      <zone type="本文" n="7" ulx="4880" uly="717" lrx="5073" lry="3076" xml:id="zone-p24-l7"/>
+      <zone type="本文" n="8" ulx="4657" uly="705" lrx="4862" lry="3094" xml:id="zone-p24-l8"/>
+      <zone type="本文" n="9" ulx="4470" uly="699" lrx="4663" lry="3082" xml:id="zone-p24-l9"/>
+      <zone type="本文" n="10" ulx="4271" uly="705" lrx="4452" lry="3082" xml:id="zone-p24-l10"/>
+      <zone type="本文" n="12" ulx="4078" uly="705" lrx="4252" lry="3094" xml:id="zone-p24-l12"/>
+      <zone type="本文" n="13" ulx="2938" uly="705" lrx="3119" lry="3058" xml:id="zone-p24-l13"/>
+      <zone type="本文" n="14" ulx="2727" uly="681" lrx="2932" lry="3070" xml:id="zone-p24-l14"/>
+      <zone type="本文" n="15" ulx="2527" uly="675" lrx="2720" lry="3082" xml:id="zone-p24-l15"/>
+      <zone type="本文" n="16" ulx="2310" uly="687" lrx="2509" lry="3088" xml:id="zone-p24-l16"/>
+      <zone type="本文" n="17" ulx="2093" uly="687" lrx="2328" lry="3088" xml:id="zone-p24-l17"/>
+      <zone type="本文" n="18" ulx="1888" uly="681" lrx="2099" lry="3082" xml:id="zone-p24-l18"/>
+      <zone type="本文" n="19" ulx="1683" uly="675" lrx="1888" lry="3088" xml:id="zone-p24-l19"/>
+      <zone type="本文" n="20" ulx="1472" uly="681" lrx="1707" lry="3094" xml:id="zone-p24-l20"/>
+      <zone type="本文" n="21" ulx="1260" uly="693" lrx="1483" lry="3088" xml:id="zone-p24-l21"/>
+      <zone type="本文" n="22" ulx="1067" uly="693" lrx="1278" lry="3064" xml:id="zone-p24-l22"/>
+      <zone type="本文" n="23" ulx="856" uly="693" lrx="1091" lry="3058" xml:id="zone-p24-l23"/>
+    </surface>
+    <surface xml:id="surface-25" n="25" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/25" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>25</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00024.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00024.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6087" uly="724" lrx="6304" lry="3107" xml:id="zone-p25-l1"/>
+      <zone type="本文" n="2" ulx="5888" uly="717" lrx="6087" lry="3112" xml:id="zone-p25-l2"/>
+      <zone type="本文" n="3" ulx="5683" uly="724" lrx="5888" lry="3107" xml:id="zone-p25-l3"/>
+      <zone type="本文" n="4" ulx="5478" uly="724" lrx="5671" lry="3101" xml:id="zone-p25-l4"/>
+      <zone type="本文" n="5" ulx="5261" uly="717" lrx="5460" lry="3112" xml:id="zone-p25-l5"/>
+      <zone type="本文" n="6" ulx="5068" uly="693" lrx="5267" lry="3118" xml:id="zone-p25-l6"/>
+      <zone type="本文" n="7" ulx="4850" uly="711" lrx="5061" lry="3094" xml:id="zone-p25-l7"/>
+      <zone type="本文" n="8" ulx="4651" uly="675" lrx="4862" lry="3112" xml:id="zone-p25-l8"/>
+      <zone type="本文" n="9" ulx="4446" uly="675" lrx="4645" lry="2768" xml:id="zone-p25-l9"/>
+      <zone type="本文" n="10" ulx="4217" uly="856" lrx="4446" lry="3136" xml:id="zone-p25-l10"/>
+      <zone type="本文" n="11" ulx="4030" uly="699" lrx="4253" lry="3082" xml:id="zone-p25-l11"/>
+      <zone type="本文" n="12" ulx="2920" uly="693" lrx="3143" lry="3088" xml:id="zone-p25-l12"/>
+      <zone type="本文" n="13" ulx="2715" uly="693" lrx="2944" lry="3094" xml:id="zone-p25-l13"/>
+      <zone type="本文" n="14" ulx="2527" uly="693" lrx="2738" lry="3088" xml:id="zone-p25-l14"/>
+      <zone type="本文" n="15" ulx="2322" uly="687" lrx="2539" lry="3088" xml:id="zone-p25-l15"/>
+      <zone type="本文" n="16" ulx="2123" uly="681" lrx="2328" lry="3088" xml:id="zone-p25-l16"/>
+      <zone type="本文" n="17" ulx="1918" uly="681" lrx="2123" lry="3088" xml:id="zone-p25-l17"/>
+      <zone type="本文" n="18" ulx="1695" uly="669" lrx="1894" lry="3082" xml:id="zone-p25-l18"/>
+      <zone type="本文" n="19" ulx="1484" uly="663" lrx="1695" lry="3088" xml:id="zone-p25-l19"/>
+      <zone type="本文" n="20" ulx="1273" uly="693" lrx="1490" lry="3070" xml:id="zone-p25-l20"/>
+      <zone type="本文" n="21" ulx="1055" uly="772" lrx="1272" lry="3070" xml:id="zone-p25-l21"/>
+      <zone type="本文" n="22" ulx="862" uly="754" lrx="1067" lry="3064" xml:id="zone-p25-l22"/>
+    </surface>
+    <surface xml:id="surface-26" n="26" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/26" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>26</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00025.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00025.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6093" uly="724" lrx="6298" lry="3070" xml:id="zone-p26-l1"/>
+      <zone type="本文" n="2" ulx="5900" uly="730" lrx="6093" lry="3064" xml:id="zone-p26-l2"/>
+      <zone type="本文" n="3" ulx="5695" uly="724" lrx="5900" lry="3064" xml:id="zone-p26-l3"/>
+      <zone type="本文" n="4" ulx="5478" uly="711" lrx="5677" lry="3064" xml:id="zone-p26-l4"/>
+      <zone type="本文" n="5" ulx="5273" uly="717" lrx="5466" lry="3070" xml:id="zone-p26-l5"/>
+      <zone type="本文" n="6" ulx="5055" uly="730" lrx="5254" lry="3070" xml:id="zone-p26-l6"/>
+      <zone type="本文" n="7" ulx="4850" uly="736" lrx="5043" lry="3070" xml:id="zone-p26-l7"/>
+      <zone type="本文" n="8" ulx="4627" uly="724" lrx="4838" lry="3077" xml:id="zone-p26-l8"/>
+      <zone type="本文" n="9" ulx="4428" uly="711" lrx="4627" lry="3088" xml:id="zone-p26-l9"/>
+      <zone type="本文" n="10" ulx="4241" uly="687" lrx="4440" lry="3136" xml:id="zone-p26-l10"/>
+      <zone type="本文" n="11" ulx="4048" uly="705" lrx="4222" lry="2997" xml:id="zone-p26-l11"/>
+      <zone type="本文" n="12" ulx="2932" uly="711" lrx="3106" lry="3112" xml:id="zone-p26-l12"/>
+      <zone type="本文" n="13" ulx="2733" uly="711" lrx="2920" lry="3100" xml:id="zone-p26-l13"/>
+      <zone type="本文" n="14" ulx="2521" uly="699" lrx="2726" lry="3100" xml:id="zone-p26-l14"/>
+      <zone type="本文" n="15" ulx="2322" uly="705" lrx="2515" lry="3094" xml:id="zone-p26-l15"/>
+      <zone type="本文" n="16" ulx="2117" uly="705" lrx="2322" lry="3094" xml:id="zone-p26-l16"/>
+      <zone type="本文" n="17" ulx="1912" uly="705" lrx="2111" lry="3088" xml:id="zone-p26-l17"/>
+      <zone type="本文" n="18" ulx="1701" uly="699" lrx="1894" lry="3082" xml:id="zone-p26-l18"/>
+      <zone type="本文" n="19" ulx="1484" uly="687" lrx="1689" lry="3088" xml:id="zone-p26-l19"/>
+      <zone type="本文" n="20" ulx="1291" uly="675" lrx="1490" lry="3094" xml:id="zone-p26-l20"/>
+      <zone type="本文" n="21" ulx="1092" uly="681" lrx="1303" lry="3082" xml:id="zone-p26-l21"/>
+      <zone type="本文" n="22" ulx="856" uly="681" lrx="1097" lry="3088" xml:id="zone-p26-l22"/>
+    </surface>
+    <surface xml:id="surface-27" n="27" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/27" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>27</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00026.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00026.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6075" uly="705" lrx="6292" lry="3094" xml:id="zone-p27-l1"/>
+      <zone type="本文" n="2" ulx="5888" uly="699" lrx="6099" lry="3088" xml:id="zone-p27-l2"/>
+      <zone type="本文" n="3" ulx="5677" uly="711" lrx="5900" lry="3094" xml:id="zone-p27-l3"/>
+      <zone type="本文" n="4" ulx="5484" uly="717" lrx="5683" lry="3112" xml:id="zone-p27-l4"/>
+      <zone type="本文" n="5" ulx="5267" uly="717" lrx="5484" lry="3112" xml:id="zone-p27-l5"/>
+      <zone type="本文" n="6" ulx="5068" uly="736" lrx="5267" lry="3101" xml:id="zone-p27-l6"/>
+      <zone type="本文" n="7" ulx="4862" uly="742" lrx="5067" lry="3082" xml:id="zone-p27-l7"/>
+      <zone type="本文" n="8" ulx="4663" uly="711" lrx="4862" lry="3088" xml:id="zone-p27-l8"/>
+      <zone type="本文" n="9" ulx="4464" uly="724" lrx="4663" lry="3070" xml:id="zone-p27-l9"/>
+      <zone type="本文" n="10" ulx="4241" uly="724" lrx="4476" lry="3070" xml:id="zone-p27-l10"/>
+      <zone type="本文" n="11" ulx="4042" uly="711" lrx="4241" lry="3082" xml:id="zone-p27-l11"/>
+      <zone type="本文" n="12" ulx="2914" uly="724" lrx="3107" lry="3101" xml:id="zone-p27-l12"/>
+      <zone type="本文" n="13" ulx="2696" uly="736" lrx="2901" lry="3107" xml:id="zone-p27-l13"/>
+      <zone type="本文" n="14" ulx="2497" uly="742" lrx="2696" lry="3107" xml:id="zone-p27-l14"/>
+      <zone type="本文" n="15" ulx="2310" uly="742" lrx="2509" lry="3131" xml:id="zone-p27-l15"/>
+      <zone type="本文" n="16" ulx="2081" uly="736" lrx="2292" lry="3131" xml:id="zone-p27-l16"/>
+      <zone type="本文" n="17" ulx="1882" uly="742" lrx="2081" lry="3125" xml:id="zone-p27-l17"/>
+      <zone type="本文" n="18" ulx="1683" uly="736" lrx="1870" lry="3137" xml:id="zone-p27-l18"/>
+      <zone type="本文" n="19" ulx="1460" uly="736" lrx="1671" lry="3149" xml:id="zone-p27-l19"/>
+      <zone type="本文" n="20" ulx="1254" uly="724" lrx="1453" lry="3149" xml:id="zone-p27-l20"/>
+      <zone type="本文" n="21" ulx="1061" uly="730" lrx="1260" lry="3137" xml:id="zone-p27-l21"/>
+      <zone type="本文" n="22" ulx="838" uly="736" lrx="1067" lry="3119" xml:id="zone-p27-l22"/>
+    </surface>
+    <surface xml:id="surface-28" n="28" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/28" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>28</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00027.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00027.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="6099" uly="730" lrx="6304" lry="3076" xml:id="zone-p28-l1"/>
+      <zone type="本文" n="2" ulx="5918" uly="711" lrx="6092" lry="3076" xml:id="zone-p28-l2"/>
+      <zone type="本文" n="3" ulx="5725" uly="717" lrx="5912" lry="3070" xml:id="zone-p28-l3"/>
+      <zone type="本文" n="4" ulx="5514" uly="724" lrx="5701" lry="3070" xml:id="zone-p28-l4"/>
+      <zone type="本文" n="5" ulx="5309" uly="724" lrx="5514" lry="3083" xml:id="zone-p28-l5"/>
+      <zone type="本文" n="6" ulx="5086" uly="717" lrx="5303" lry="3082" xml:id="zone-p28-l6"/>
+      <zone type="本文" n="7" ulx="4880" uly="724" lrx="5085" lry="3070" xml:id="zone-p28-l7"/>
+      <zone type="本文" n="8" ulx="4681" uly="730" lrx="4886" lry="3076" xml:id="zone-p28-l8"/>
+      <zone type="本文" n="9" ulx="4470" uly="724" lrx="4675" lry="3058" xml:id="zone-p28-l9"/>
+      <zone type="本文" n="10" ulx="4283" uly="724" lrx="4494" lry="3058" xml:id="zone-p28-l10"/>
+      <zone type="本文" n="11" ulx="4078" uly="705" lrx="4277" lry="3076" xml:id="zone-p28-l11"/>
+      <zone type="本文" n="12" ulx="3239" uly="627" lrx="3371" lry="1562" xml:id="zone-p28-l12"/>
+      <zone type="本文" n="13" ulx="3137" uly="669" lrx="3275" lry="1549" xml:id="zone-p28-l13"/>
+      <zone type="本文" n="15" ulx="2889" uly="693" lrx="3088" lry="3046" xml:id="zone-p28-l15"/>
+      <zone type="本文" n="16" ulx="2702" uly="693" lrx="2876" lry="3046" xml:id="zone-p28-l16"/>
+      <zone type="本文" n="17" ulx="2491" uly="687" lrx="2690" lry="3064" xml:id="zone-p28-l17"/>
+      <zone type="本文" n="18" ulx="2274" uly="687" lrx="2479" lry="3070" xml:id="zone-p28-l18"/>
+      <zone type="本文" n="19" ulx="2063" uly="687" lrx="2280" lry="3064" xml:id="zone-p28-l19"/>
+      <zone type="本文" n="20" ulx="1852" uly="687" lrx="2081" lry="3070" xml:id="zone-p28-l20"/>
+      <zone type="本文" n="21" ulx="1659" uly="687" lrx="1858" lry="3070" xml:id="zone-p28-l21"/>
+      <zone type="本文" n="22" ulx="1448" uly="687" lrx="1665" lry="3064" xml:id="zone-p28-l22"/>
+      <zone type="本文" n="23" ulx="1254" uly="687" lrx="1465" lry="3064" xml:id="zone-p28-l23"/>
+      <zone type="本文" n="24" ulx="1061" uly="687" lrx="1260" lry="3058" xml:id="zone-p28-l24"/>
+      <zone type="本文" n="25" ulx="850" uly="693" lrx="1061" lry="2460" xml:id="zone-p28-l25"/>
+    </surface>
+    <surface xml:id="surface-29" n="29" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/29" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>29</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00028.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00028.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="2660" uly="796" lrx="2961" lry="2907" xml:id="zone-p29-l1"/>
+      <zone type="本文" n="2" ulx="2286" uly="796" lrx="2533" lry="2841" xml:id="zone-p29-l2"/>
+      <zone type="本文" n="3" ulx="1930" uly="808" lrx="2183" lry="1936" xml:id="zone-p29-l3"/>
+      <zone type="本文" n="4" ulx="1761" uly="2334" lrx="1905" lry="2689" xml:id="zone-p29-l4"/>
+      <zone type="本文" n="5" ulx="1659" uly="1019" lrx="1809" lry="1712" xml:id="zone-p29-l5"/>
+      <zone type="本文" n="8" ulx="1429" uly="1212" lrx="1712" lry="3034" xml:id="zone-p29-l8"/>
+    </surface>
+    <surface xml:id="surface-30" n="30" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/30" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>30</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00029.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00029.tif" width="7240px" height="3736px"/>
+      <zone type="本文" n="1" ulx="2793" uly="1073" lrx="3040" lry="3112" xml:id="zone-p30-l1"/>
+      <zone type="本文" n="2" ulx="2582" uly="1092" lrx="2787" lry="3107" xml:id="zone-p30-l2"/>
+      <zone type="本文" n="4" ulx="2395" uly="1061" lrx="2606" lry="3136" xml:id="zone-p30-l4"/>
+      <zone type="本文" n="5" ulx="2165" uly="1092" lrx="2382" lry="3119" xml:id="zone-p30-l5"/>
+      <zone type="本文" n="6" ulx="1991" uly="1067" lrx="2190" lry="3130" xml:id="zone-p30-l6"/>
+      <zone type="本文" n="8" ulx="1816" uly="1092" lrx="2009" lry="3125" xml:id="zone-p30-l8"/>
+      <zone type="本文" n="9" ulx="1544" uly="1146" lrx="1755" lry="2298" xml:id="zone-p30-l9"/>
+      <zone type="本文" n="10" ulx="1375" uly="1828" lrx="1586" lry="2745" xml:id="zone-p30-l10"/>
+      <zone type="本文" n="12" ulx="1104" uly="2298" lrx="1526" lry="3100" xml:id="zone-p30-l12"/>
+    </surface>
+    <surface xml:id="surface-31" n="31" sameAs="https://kokusho.nijl.ac.jp/biblio/100421273/canvas/31" ulx="0" uly="0" lrx="7240" lry="3736">
+      <label>31</label>
+      <graphic url="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00030.tif/full/full/0/default.jpg" sameAs="https://kokusho.nijl.ac.jp/api/iiif/100421273/v4/TKAL/TKAL-00617/TKAL-00617-00030.tif" width="7240px" height="3736px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,5 +1,6 @@
 {
   "triggerTaskOnSave.tasks": {
     "Transform XML with XSLT": ["tei/*.xml"]
-  }
+  },
+  "liveServer.settings.port": 5501
 }
